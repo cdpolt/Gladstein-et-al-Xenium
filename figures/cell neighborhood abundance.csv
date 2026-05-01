@@ -1,0 +1,1432 @@
+tumor_barcode,Cellular Neighborhood,count,total,fraction,Genotype
+Tumor_103,Malignant 2 (AT2-like) enriched,4300.0,32423,0.13262190420380593,Kras-H3K36M-Setd2KO
+Tumor_103,Malignant 1 enriched,25348.0,32423,0.7817907041297845,Kras-H3K36M-Setd2KO
+Tumor_103,Malignant 1/2 co-enriched,1546.0,32423,0.047682200906763714,Kras-H3K36M-Setd2KO
+Tumor_103,Large airway,145.0,32423,0.004472133978965549,Kras-H3K36M-Setd2KO
+Tumor_103,Plasma/B/T co-enriched,171.0,32423,0.005274033864849027,Kras-H3K36M-Setd2KO
+Tumor_103,Lymphatic endothelial enriched,465.0,32423,0.014341671035992968,Kras-H3K36M-Setd2KO
+Tumor_103,Malignant 3 enriched,399.0,32423,0.012306079017981062,Kras-H3K36M-Setd2KO
+Tumor_103,Lung parenchyma,49.0,32423,0.0015112728618573235,Kras-H3K36M-Setd2KO
+Tumor_103,Pleura,0.0,32423,0.0,Kras-H3K36M-Setd2KO
+Tumor_107,Malignant 2 (AT2-like) enriched,801.0,954,0.839622641509434,Kras-H3K36M-Setd2KO
+Tumor_107,Malignant 1 enriched,0.0,954,0.0,Kras-H3K36M-Setd2KO
+Tumor_107,Malignant 1/2 co-enriched,0.0,954,0.0,Kras-H3K36M-Setd2KO
+Tumor_107,Large airway,37.0,954,0.03878406708595388,Kras-H3K36M-Setd2KO
+Tumor_107,Plasma/B/T co-enriched,63.0,954,0.0660377358490566,Kras-H3K36M-Setd2KO
+Tumor_107,Lymphatic endothelial enriched,47.0,954,0.049266247379454925,Kras-H3K36M-Setd2KO
+Tumor_107,Malignant 3 enriched,0.0,954,0.0,Kras-H3K36M-Setd2KO
+Tumor_107,Lung parenchyma,6.0,954,0.006289308176100629,Kras-H3K36M-Setd2KO
+Tumor_107,Pleura,0.0,954,0.0,Kras-H3K36M-Setd2KO
+Tumor_102,Malignant 2 (AT2-like) enriched,32.0,8424,0.003798670465337132,Kras-H3K36M-Setd2KO
+Tumor_102,Malignant 1 enriched,7789.0,8424,0.9246201329534662,Kras-H3K36M-Setd2KO
+Tumor_102,Malignant 1/2 co-enriched,206.0,8424,0.024453941120607788,Kras-H3K36M-Setd2KO
+Tumor_102,Large airway,23.0,8424,0.0027302943969610637,Kras-H3K36M-Setd2KO
+Tumor_102,Plasma/B/T co-enriched,113.0,8424,0.013414055080721748,Kras-H3K36M-Setd2KO
+Tumor_102,Lymphatic endothelial enriched,201.0,8424,0.02386039886039886,Kras-H3K36M-Setd2KO
+Tumor_102,Malignant 3 enriched,57.0,8424,0.006766381766381766,Kras-H3K36M-Setd2KO
+Tumor_102,Lung parenchyma,3.0,8424,0.00035612535612535614,Kras-H3K36M-Setd2KO
+Tumor_102,Pleura,0.0,8424,0.0,Kras-H3K36M-Setd2KO
+Tumor_108,Malignant 2 (AT2-like) enriched,2279.0,25954,0.08780920089388919,Kras-H3K36M-Setd2KO
+Tumor_108,Malignant 1 enriched,20416.0,25954,0.7866224859366572,Kras-H3K36M-Setd2KO
+Tumor_108,Malignant 1/2 co-enriched,2097.0,25954,0.08079679432842722,Kras-H3K36M-Setd2KO
+Tumor_108,Large airway,86.0,25954,0.0033135547507127995,Kras-H3K36M-Setd2KO
+Tumor_108,Plasma/B/T co-enriched,291.0,25954,0.011212144563458426,Kras-H3K36M-Setd2KO
+Tumor_108,Lymphatic endothelial enriched,484.0,25954,0.018648377899360406,Kras-H3K36M-Setd2KO
+Tumor_108,Malignant 3 enriched,227.0,25954,0.008746243353625645,Kras-H3K36M-Setd2KO
+Tumor_108,Lung parenchyma,74.0,25954,0.002851198273869153,Kras-H3K36M-Setd2KO
+Tumor_108,Pleura,0.0,25954,0.0,Kras-H3K36M-Setd2KO
+Tumor_106,Malignant 2 (AT2-like) enriched,1279.0,1375,0.9301818181818182,Kras-H3K36M-Setd2KO
+Tumor_106,Malignant 1 enriched,0.0,1375,0.0,Kras-H3K36M-Setd2KO
+Tumor_106,Malignant 1/2 co-enriched,9.0,1375,0.006545454545454545,Kras-H3K36M-Setd2KO
+Tumor_106,Large airway,0.0,1375,0.0,Kras-H3K36M-Setd2KO
+Tumor_106,Plasma/B/T co-enriched,16.0,1375,0.011636363636363636,Kras-H3K36M-Setd2KO
+Tumor_106,Lymphatic endothelial enriched,20.0,1375,0.014545454545454545,Kras-H3K36M-Setd2KO
+Tumor_106,Malignant 3 enriched,0.0,1375,0.0,Kras-H3K36M-Setd2KO
+Tumor_106,Lung parenchyma,51.0,1375,0.03709090909090909,Kras-H3K36M-Setd2KO
+Tumor_106,Pleura,0.0,1375,0.0,Kras-H3K36M-Setd2KO
+Tumor_104,Malignant 2 (AT2-like) enriched,0.0,40,0.0,Kras-H3K36M-Setd2KO
+Tumor_104,Malignant 1 enriched,28.0,40,0.7,Kras-H3K36M-Setd2KO
+Tumor_104,Malignant 1/2 co-enriched,0.0,40,0.0,Kras-H3K36M-Setd2KO
+Tumor_104,Large airway,0.0,40,0.0,Kras-H3K36M-Setd2KO
+Tumor_104,Plasma/B/T co-enriched,0.0,40,0.0,Kras-H3K36M-Setd2KO
+Tumor_104,Lymphatic endothelial enriched,11.0,40,0.275,Kras-H3K36M-Setd2KO
+Tumor_104,Malignant 3 enriched,0.0,40,0.0,Kras-H3K36M-Setd2KO
+Tumor_104,Lung parenchyma,1.0,40,0.025,Kras-H3K36M-Setd2KO
+Tumor_104,Pleura,0.0,40,0.0,Kras-H3K36M-Setd2KO
+Tumor_109,Malignant 2 (AT2-like) enriched,8.0,22661,0.0003530294338290455,Kras-H3K36M-Setd2KO
+Tumor_109,Malignant 1 enriched,22203.0,22661,0.9797890649132871,Kras-H3K36M-Setd2KO
+Tumor_109,Malignant 1/2 co-enriched,29.0,22661,0.00127973169763029,Kras-H3K36M-Setd2KO
+Tumor_109,Large airway,0.0,22661,0.0,Kras-H3K36M-Setd2KO
+Tumor_109,Plasma/B/T co-enriched,32.0,22661,0.001412117735316182,Kras-H3K36M-Setd2KO
+Tumor_109,Lymphatic endothelial enriched,200.0,22661,0.008825735845726138,Kras-H3K36M-Setd2KO
+Tumor_109,Malignant 3 enriched,182.0,22661,0.008031419619610784,Kras-H3K36M-Setd2KO
+Tumor_109,Lung parenchyma,7.0,22661,0.0003089007546004148,Kras-H3K36M-Setd2KO
+Tumor_109,Pleura,0.0,22661,0.0,Kras-H3K36M-Setd2KO
+Tumor_116,Malignant 2 (AT2-like) enriched,8.0,38,0.21052631578947367,Kras-H3K36M-Setd2KO
+Tumor_116,Malignant 1 enriched,0.0,38,0.0,Kras-H3K36M-Setd2KO
+Tumor_116,Malignant 1/2 co-enriched,0.0,38,0.0,Kras-H3K36M-Setd2KO
+Tumor_116,Large airway,5.0,38,0.13157894736842105,Kras-H3K36M-Setd2KO
+Tumor_116,Plasma/B/T co-enriched,24.0,38,0.631578947368421,Kras-H3K36M-Setd2KO
+Tumor_116,Lymphatic endothelial enriched,1.0,38,0.02631578947368421,Kras-H3K36M-Setd2KO
+Tumor_116,Malignant 3 enriched,0.0,38,0.0,Kras-H3K36M-Setd2KO
+Tumor_116,Lung parenchyma,0.0,38,0.0,Kras-H3K36M-Setd2KO
+Tumor_116,Pleura,0.0,38,0.0,Kras-H3K36M-Setd2KO
+Tumor_115,Malignant 2 (AT2-like) enriched,744.0,15095,0.04928784365684001,Kras-H3K36M-Setd2KO
+Tumor_115,Malignant 1 enriched,13173.0,15095,0.8726730705531633,Kras-H3K36M-Setd2KO
+Tumor_115,Malignant 1/2 co-enriched,812.0,15095,0.05379264657171249,Kras-H3K36M-Setd2KO
+Tumor_115,Large airway,14.0,15095,0.0009274594236502153,Kras-H3K36M-Setd2KO
+Tumor_115,Plasma/B/T co-enriched,27.0,15095,0.0017886717456111296,Kras-H3K36M-Setd2KO
+Tumor_115,Lymphatic endothelial enriched,221.0,15095,0.014640609473335542,Kras-H3K36M-Setd2KO
+Tumor_115,Malignant 3 enriched,99.0,15095,0.006558463067240808,Kras-H3K36M-Setd2KO
+Tumor_115,Lung parenchyma,5.0,15095,0.0003312355084465055,Kras-H3K36M-Setd2KO
+Tumor_115,Pleura,0.0,15095,0.0,Kras-H3K36M-Setd2KO
+Tumor_110,Malignant 2 (AT2-like) enriched,12.0,68,0.17647058823529413,Kras-H3K36M-Setd2KO
+Tumor_110,Malignant 1 enriched,0.0,68,0.0,Kras-H3K36M-Setd2KO
+Tumor_110,Malignant 1/2 co-enriched,0.0,68,0.0,Kras-H3K36M-Setd2KO
+Tumor_110,Large airway,0.0,68,0.0,Kras-H3K36M-Setd2KO
+Tumor_110,Plasma/B/T co-enriched,3.0,68,0.04411764705882353,Kras-H3K36M-Setd2KO
+Tumor_110,Lymphatic endothelial enriched,50.0,68,0.7352941176470589,Kras-H3K36M-Setd2KO
+Tumor_110,Malignant 3 enriched,0.0,68,0.0,Kras-H3K36M-Setd2KO
+Tumor_110,Lung parenchyma,3.0,68,0.04411764705882353,Kras-H3K36M-Setd2KO
+Tumor_110,Pleura,0.0,68,0.0,Kras-H3K36M-Setd2KO
+Tumor_119,Malignant 2 (AT2-like) enriched,2109.0,2815,0.7492007104795737,Kras-H3K36M-Setd2KO
+Tumor_119,Malignant 1 enriched,37.0,2815,0.013143872113676732,Kras-H3K36M-Setd2KO
+Tumor_119,Malignant 1/2 co-enriched,383.0,2815,0.136056838365897,Kras-H3K36M-Setd2KO
+Tumor_119,Large airway,0.0,2815,0.0,Kras-H3K36M-Setd2KO
+Tumor_119,Plasma/B/T co-enriched,155.0,2815,0.055062166962699825,Kras-H3K36M-Setd2KO
+Tumor_119,Lymphatic endothelial enriched,103.0,2815,0.036589698046181174,Kras-H3K36M-Setd2KO
+Tumor_119,Malignant 3 enriched,0.0,2815,0.0,Kras-H3K36M-Setd2KO
+Tumor_119,Lung parenchyma,27.0,2815,0.009591474245115453,Kras-H3K36M-Setd2KO
+Tumor_119,Pleura,1.0,2815,0.00035523978685612787,Kras-H3K36M-Setd2KO
+Tumor_120,Malignant 2 (AT2-like) enriched,61.0,196,0.3112244897959184,Kras-H3K36M-Setd2KO
+Tumor_120,Malignant 1 enriched,0.0,196,0.0,Kras-H3K36M-Setd2KO
+Tumor_120,Malignant 1/2 co-enriched,0.0,196,0.0,Kras-H3K36M-Setd2KO
+Tumor_120,Large airway,0.0,196,0.0,Kras-H3K36M-Setd2KO
+Tumor_120,Plasma/B/T co-enriched,98.0,196,0.5,Kras-H3K36M-Setd2KO
+Tumor_120,Lymphatic endothelial enriched,23.0,196,0.11734693877551021,Kras-H3K36M-Setd2KO
+Tumor_120,Malignant 3 enriched,0.0,196,0.0,Kras-H3K36M-Setd2KO
+Tumor_120,Lung parenchyma,2.0,196,0.01020408163265306,Kras-H3K36M-Setd2KO
+Tumor_120,Pleura,12.0,196,0.061224489795918366,Kras-H3K36M-Setd2KO
+Tumor_111,Malignant 2 (AT2-like) enriched,0.0,80,0.0,Kras-H3K36M-Setd2KO
+Tumor_111,Malignant 1 enriched,0.0,80,0.0,Kras-H3K36M-Setd2KO
+Tumor_111,Malignant 1/2 co-enriched,0.0,80,0.0,Kras-H3K36M-Setd2KO
+Tumor_111,Large airway,0.0,80,0.0,Kras-H3K36M-Setd2KO
+Tumor_111,Plasma/B/T co-enriched,0.0,80,0.0,Kras-H3K36M-Setd2KO
+Tumor_111,Lymphatic endothelial enriched,2.0,80,0.025,Kras-H3K36M-Setd2KO
+Tumor_111,Malignant 3 enriched,29.0,80,0.3625,Kras-H3K36M-Setd2KO
+Tumor_111,Lung parenchyma,49.0,80,0.6125,Kras-H3K36M-Setd2KO
+Tumor_111,Pleura,0.0,80,0.0,Kras-H3K36M-Setd2KO
+Tumor_114,Malignant 2 (AT2-like) enriched,71.0,74,0.9594594594594594,Kras-H3K36M-Setd2KO
+Tumor_114,Malignant 1 enriched,0.0,74,0.0,Kras-H3K36M-Setd2KO
+Tumor_114,Malignant 1/2 co-enriched,0.0,74,0.0,Kras-H3K36M-Setd2KO
+Tumor_114,Large airway,2.0,74,0.02702702702702703,Kras-H3K36M-Setd2KO
+Tumor_114,Plasma/B/T co-enriched,0.0,74,0.0,Kras-H3K36M-Setd2KO
+Tumor_114,Lymphatic endothelial enriched,0.0,74,0.0,Kras-H3K36M-Setd2KO
+Tumor_114,Malignant 3 enriched,0.0,74,0.0,Kras-H3K36M-Setd2KO
+Tumor_114,Lung parenchyma,1.0,74,0.013513513513513514,Kras-H3K36M-Setd2KO
+Tumor_114,Pleura,0.0,74,0.0,Kras-H3K36M-Setd2KO
+Tumor_112,Malignant 2 (AT2-like) enriched,41.0,94,0.43617021276595747,Kras-H3K36M-Setd2KO
+Tumor_112,Malignant 1 enriched,0.0,94,0.0,Kras-H3K36M-Setd2KO
+Tumor_112,Malignant 1/2 co-enriched,0.0,94,0.0,Kras-H3K36M-Setd2KO
+Tumor_112,Large airway,2.0,94,0.02127659574468085,Kras-H3K36M-Setd2KO
+Tumor_112,Plasma/B/T co-enriched,27.0,94,0.2872340425531915,Kras-H3K36M-Setd2KO
+Tumor_112,Lymphatic endothelial enriched,8.0,94,0.0851063829787234,Kras-H3K36M-Setd2KO
+Tumor_112,Malignant 3 enriched,0.0,94,0.0,Kras-H3K36M-Setd2KO
+Tumor_112,Lung parenchyma,16.0,94,0.1702127659574468,Kras-H3K36M-Setd2KO
+Tumor_112,Pleura,0.0,94,0.0,Kras-H3K36M-Setd2KO
+Tumor_105,Malignant 2 (AT2-like) enriched,91.0,178,0.5112359550561798,Kras-H3K36M-Setd2KO
+Tumor_105,Malignant 1 enriched,0.0,178,0.0,Kras-H3K36M-Setd2KO
+Tumor_105,Malignant 1/2 co-enriched,0.0,178,0.0,Kras-H3K36M-Setd2KO
+Tumor_105,Large airway,0.0,178,0.0,Kras-H3K36M-Setd2KO
+Tumor_105,Plasma/B/T co-enriched,62.0,178,0.34831460674157305,Kras-H3K36M-Setd2KO
+Tumor_105,Lymphatic endothelial enriched,6.0,178,0.033707865168539325,Kras-H3K36M-Setd2KO
+Tumor_105,Malignant 3 enriched,0.0,178,0.0,Kras-H3K36M-Setd2KO
+Tumor_105,Lung parenchyma,19.0,178,0.10674157303370786,Kras-H3K36M-Setd2KO
+Tumor_105,Pleura,0.0,178,0.0,Kras-H3K36M-Setd2KO
+Tumor_122,Malignant 2 (AT2-like) enriched,9935.0,225002,0.0441551630652172,Kras-H3K36M-Setd2KO
+Tumor_122,Malignant 1 enriched,195363.0,225002,0.8682722820241597,Kras-H3K36M-Setd2KO
+Tumor_122,Malignant 1/2 co-enriched,9801.0,225002,0.04355961280344175,Kras-H3K36M-Setd2KO
+Tumor_122,Large airway,569.0,225002,0.002528866410076355,Kras-H3K36M-Setd2KO
+Tumor_122,Plasma/B/T co-enriched,1743.0,225002,0.007746597808019485,Kras-H3K36M-Setd2KO
+Tumor_122,Lymphatic endothelial enriched,2517.0,225002,0.011186567230513507,Kras-H3K36M-Setd2KO
+Tumor_122,Malignant 3 enriched,4919.0,225002,0.021862027893085396,Kras-H3K36M-Setd2KO
+Tumor_122,Lung parenchyma,155.0,225002,0.000688882765486529,Kras-H3K36M-Setd2KO
+Tumor_122,Pleura,0.0,225002,0.0,Kras-H3K36M-Setd2KO
+Tumor_131,Malignant 2 (AT2-like) enriched,0.0,99,0.0,Kras-H3K36M-Setd2KO
+Tumor_131,Malignant 1 enriched,0.0,99,0.0,Kras-H3K36M-Setd2KO
+Tumor_131,Malignant 1/2 co-enriched,0.0,99,0.0,Kras-H3K36M-Setd2KO
+Tumor_131,Large airway,0.0,99,0.0,Kras-H3K36M-Setd2KO
+Tumor_131,Plasma/B/T co-enriched,0.0,99,0.0,Kras-H3K36M-Setd2KO
+Tumor_131,Lymphatic endothelial enriched,7.0,99,0.0707070707070707,Kras-H3K36M-Setd2KO
+Tumor_131,Malignant 3 enriched,80.0,99,0.8080808080808081,Kras-H3K36M-Setd2KO
+Tumor_131,Lung parenchyma,12.0,99,0.12121212121212122,Kras-H3K36M-Setd2KO
+Tumor_131,Pleura,0.0,99,0.0,Kras-H3K36M-Setd2KO
+Tumor_133,Malignant 2 (AT2-like) enriched,0.0,75,0.0,Kras-H3K36M-Setd2KO
+Tumor_133,Malignant 1 enriched,0.0,75,0.0,Kras-H3K36M-Setd2KO
+Tumor_133,Malignant 1/2 co-enriched,0.0,75,0.0,Kras-H3K36M-Setd2KO
+Tumor_133,Large airway,0.0,75,0.0,Kras-H3K36M-Setd2KO
+Tumor_133,Plasma/B/T co-enriched,0.0,75,0.0,Kras-H3K36M-Setd2KO
+Tumor_133,Lymphatic endothelial enriched,0.0,75,0.0,Kras-H3K36M-Setd2KO
+Tumor_133,Malignant 3 enriched,54.0,75,0.72,Kras-H3K36M-Setd2KO
+Tumor_133,Lung parenchyma,21.0,75,0.28,Kras-H3K36M-Setd2KO
+Tumor_133,Pleura,0.0,75,0.0,Kras-H3K36M-Setd2KO
+Tumor_132,Malignant 2 (AT2-like) enriched,19.0,65,0.2923076923076923,Kras-H3K36M-Setd2KO
+Tumor_132,Malignant 1 enriched,0.0,65,0.0,Kras-H3K36M-Setd2KO
+Tumor_132,Malignant 1/2 co-enriched,0.0,65,0.0,Kras-H3K36M-Setd2KO
+Tumor_132,Large airway,0.0,65,0.0,Kras-H3K36M-Setd2KO
+Tumor_132,Plasma/B/T co-enriched,0.0,65,0.0,Kras-H3K36M-Setd2KO
+Tumor_132,Lymphatic endothelial enriched,6.0,65,0.09230769230769231,Kras-H3K36M-Setd2KO
+Tumor_132,Malignant 3 enriched,0.0,65,0.0,Kras-H3K36M-Setd2KO
+Tumor_132,Lung parenchyma,40.0,65,0.6153846153846154,Kras-H3K36M-Setd2KO
+Tumor_132,Pleura,0.0,65,0.0,Kras-H3K36M-Setd2KO
+Tumor_128,Malignant 2 (AT2-like) enriched,219.0,263,0.8326996197718631,Kras-H3K36M-Setd2KO
+Tumor_128,Malignant 1 enriched,0.0,263,0.0,Kras-H3K36M-Setd2KO
+Tumor_128,Malignant 1/2 co-enriched,0.0,263,0.0,Kras-H3K36M-Setd2KO
+Tumor_128,Large airway,0.0,263,0.0,Kras-H3K36M-Setd2KO
+Tumor_128,Plasma/B/T co-enriched,27.0,263,0.10266159695817491,Kras-H3K36M-Setd2KO
+Tumor_128,Lymphatic endothelial enriched,13.0,263,0.049429657794676805,Kras-H3K36M-Setd2KO
+Tumor_128,Malignant 3 enriched,0.0,263,0.0,Kras-H3K36M-Setd2KO
+Tumor_128,Lung parenchyma,4.0,263,0.015209125475285171,Kras-H3K36M-Setd2KO
+Tumor_128,Pleura,0.0,263,0.0,Kras-H3K36M-Setd2KO
+Tumor_124,Malignant 2 (AT2-like) enriched,2761.0,3191,0.8652460043873393,Kras-H3K36M-Setd2KO
+Tumor_124,Malignant 1 enriched,13.0,3191,0.00407395800689439,Kras-H3K36M-Setd2KO
+Tumor_124,Malignant 1/2 co-enriched,240.0,3191,0.07521153243497336,Kras-H3K36M-Setd2KO
+Tumor_124,Large airway,0.0,3191,0.0,Kras-H3K36M-Setd2KO
+Tumor_124,Plasma/B/T co-enriched,97.0,3191,0.030397994359135067,Kras-H3K36M-Setd2KO
+Tumor_124,Lymphatic endothelial enriched,47.0,3191,0.01472892510184895,Kras-H3K36M-Setd2KO
+Tumor_124,Malignant 3 enriched,0.0,3191,0.0,Kras-H3K36M-Setd2KO
+Tumor_124,Lung parenchyma,32.0,3191,0.010028204324663115,Kras-H3K36M-Setd2KO
+Tumor_124,Pleura,1.0,3191,0.00031338138514572234,Kras-H3K36M-Setd2KO
+Tumor_125,Malignant 2 (AT2-like) enriched,10.0,34,0.29411764705882354,Kras-H3K36M-Setd2KO
+Tumor_125,Malignant 1 enriched,0.0,34,0.0,Kras-H3K36M-Setd2KO
+Tumor_125,Malignant 1/2 co-enriched,0.0,34,0.0,Kras-H3K36M-Setd2KO
+Tumor_125,Large airway,0.0,34,0.0,Kras-H3K36M-Setd2KO
+Tumor_125,Plasma/B/T co-enriched,19.0,34,0.5588235294117647,Kras-H3K36M-Setd2KO
+Tumor_125,Lymphatic endothelial enriched,4.0,34,0.11764705882352941,Kras-H3K36M-Setd2KO
+Tumor_125,Malignant 3 enriched,0.0,34,0.0,Kras-H3K36M-Setd2KO
+Tumor_125,Lung parenchyma,1.0,34,0.029411764705882353,Kras-H3K36M-Setd2KO
+Tumor_125,Pleura,0.0,34,0.0,Kras-H3K36M-Setd2KO
+Tumor_117,Malignant 2 (AT2-like) enriched,4910.0,6411,0.7658711589455623,Kras-H3K36M-Setd2KO
+Tumor_117,Malignant 1 enriched,23.0,6411,0.003587583840274528,Kras-H3K36M-Setd2KO
+Tumor_117,Malignant 1/2 co-enriched,267.0,6411,0.0416471689284043,Kras-H3K36M-Setd2KO
+Tumor_117,Large airway,39.0,6411,0.006083294337856809,Kras-H3K36M-Setd2KO
+Tumor_117,Plasma/B/T co-enriched,920.0,6411,0.14350335361098113,Kras-H3K36M-Setd2KO
+Tumor_117,Lymphatic endothelial enriched,214.0,6411,0.033380127905163,Kras-H3K36M-Setd2KO
+Tumor_117,Malignant 3 enriched,0.0,6411,0.0,Kras-H3K36M-Setd2KO
+Tumor_117,Lung parenchyma,38.0,6411,0.005927312431757916,Kras-H3K36M-Setd2KO
+Tumor_117,Pleura,0.0,6411,0.0,Kras-H3K36M-Setd2KO
+Tumor_126,Malignant 2 (AT2-like) enriched,801.0,1209,0.6625310173697271,Kras-H3K36M-Setd2KO
+Tumor_126,Malignant 1 enriched,0.0,1209,0.0,Kras-H3K36M-Setd2KO
+Tumor_126,Malignant 1/2 co-enriched,0.0,1209,0.0,Kras-H3K36M-Setd2KO
+Tumor_126,Large airway,1.0,1209,0.0008271298593879239,Kras-H3K36M-Setd2KO
+Tumor_126,Plasma/B/T co-enriched,277.0,1209,0.22911497105045492,Kras-H3K36M-Setd2KO
+Tumor_126,Lymphatic endothelial enriched,121.0,1209,0.1000827129859388,Kras-H3K36M-Setd2KO
+Tumor_126,Malignant 3 enriched,0.0,1209,0.0,Kras-H3K36M-Setd2KO
+Tumor_126,Lung parenchyma,9.0,1209,0.007444168734491315,Kras-H3K36M-Setd2KO
+Tumor_126,Pleura,0.0,1209,0.0,Kras-H3K36M-Setd2KO
+Tumor_129,Malignant 2 (AT2-like) enriched,512.0,601,0.8519134775374376,Kras-H3K36M-Setd2KO
+Tumor_129,Malignant 1 enriched,0.0,601,0.0,Kras-H3K36M-Setd2KO
+Tumor_129,Malignant 1/2 co-enriched,0.0,601,0.0,Kras-H3K36M-Setd2KO
+Tumor_129,Large airway,0.0,601,0.0,Kras-H3K36M-Setd2KO
+Tumor_129,Plasma/B/T co-enriched,21.0,601,0.03494176372712146,Kras-H3K36M-Setd2KO
+Tumor_129,Lymphatic endothelial enriched,56.0,601,0.09317803660565724,Kras-H3K36M-Setd2KO
+Tumor_129,Malignant 3 enriched,0.0,601,0.0,Kras-H3K36M-Setd2KO
+Tumor_129,Lung parenchyma,12.0,601,0.019966722129783693,Kras-H3K36M-Setd2KO
+Tumor_129,Pleura,0.0,601,0.0,Kras-H3K36M-Setd2KO
+Tumor_118,Malignant 2 (AT2-like) enriched,1361.0,2043,0.6661771904062653,Kras-H3K36M-Setd2KO
+Tumor_118,Malignant 1 enriched,328.0,2043,0.16054821341164954,Kras-H3K36M-Setd2KO
+Tumor_118,Malignant 1/2 co-enriched,291.0,2043,0.14243759177679882,Kras-H3K36M-Setd2KO
+Tumor_118,Large airway,0.0,2043,0.0,Kras-H3K36M-Setd2KO
+Tumor_118,Plasma/B/T co-enriched,19.0,2043,0.00930004894762604,Kras-H3K36M-Setd2KO
+Tumor_118,Lymphatic endothelial enriched,19.0,2043,0.00930004894762604,Kras-H3K36M-Setd2KO
+Tumor_118,Malignant 3 enriched,0.0,2043,0.0,Kras-H3K36M-Setd2KO
+Tumor_118,Lung parenchyma,25.0,2043,0.012236906510034264,Kras-H3K36M-Setd2KO
+Tumor_118,Pleura,0.0,2043,0.0,Kras-H3K36M-Setd2KO
+Tumor_130,Malignant 2 (AT2-like) enriched,14.0,32,0.4375,Kras-H3K36M-Setd2KO
+Tumor_130,Malignant 1 enriched,0.0,32,0.0,Kras-H3K36M-Setd2KO
+Tumor_130,Malignant 1/2 co-enriched,0.0,32,0.0,Kras-H3K36M-Setd2KO
+Tumor_130,Large airway,0.0,32,0.0,Kras-H3K36M-Setd2KO
+Tumor_130,Plasma/B/T co-enriched,0.0,32,0.0,Kras-H3K36M-Setd2KO
+Tumor_130,Lymphatic endothelial enriched,12.0,32,0.375,Kras-H3K36M-Setd2KO
+Tumor_130,Malignant 3 enriched,0.0,32,0.0,Kras-H3K36M-Setd2KO
+Tumor_130,Lung parenchyma,6.0,32,0.1875,Kras-H3K36M-Setd2KO
+Tumor_130,Pleura,0.0,32,0.0,Kras-H3K36M-Setd2KO
+Tumor_121,Malignant 2 (AT2-like) enriched,429.0,507,0.8461538461538461,Kras-H3K36M-Setd2KO
+Tumor_121,Malignant 1 enriched,62.0,507,0.1222879684418146,Kras-H3K36M-Setd2KO
+Tumor_121,Malignant 1/2 co-enriched,4.0,507,0.007889546351084813,Kras-H3K36M-Setd2KO
+Tumor_121,Large airway,0.0,507,0.0,Kras-H3K36M-Setd2KO
+Tumor_121,Plasma/B/T co-enriched,0.0,507,0.0,Kras-H3K36M-Setd2KO
+Tumor_121,Lymphatic endothelial enriched,3.0,507,0.005917159763313609,Kras-H3K36M-Setd2KO
+Tumor_121,Malignant 3 enriched,0.0,507,0.0,Kras-H3K36M-Setd2KO
+Tumor_121,Lung parenchyma,9.0,507,0.01775147928994083,Kras-H3K36M-Setd2KO
+Tumor_121,Pleura,0.0,507,0.0,Kras-H3K36M-Setd2KO
+Tumor_123,Malignant 2 (AT2-like) enriched,262.0,373,0.7024128686327078,Kras-H3K36M-Setd2KO
+Tumor_123,Malignant 1 enriched,0.0,373,0.0,Kras-H3K36M-Setd2KO
+Tumor_123,Malignant 1/2 co-enriched,0.0,373,0.0,Kras-H3K36M-Setd2KO
+Tumor_123,Large airway,0.0,373,0.0,Kras-H3K36M-Setd2KO
+Tumor_123,Plasma/B/T co-enriched,35.0,373,0.0938337801608579,Kras-H3K36M-Setd2KO
+Tumor_123,Lymphatic endothelial enriched,68.0,373,0.18230563002680966,Kras-H3K36M-Setd2KO
+Tumor_123,Malignant 3 enriched,0.0,373,0.0,Kras-H3K36M-Setd2KO
+Tumor_123,Lung parenchyma,8.0,373,0.021447721179624665,Kras-H3K36M-Setd2KO
+Tumor_123,Pleura,0.0,373,0.0,Kras-H3K36M-Setd2KO
+Tumor_127,Malignant 2 (AT2-like) enriched,0.0,36,0.0,Kras-H3K36M-Setd2KO
+Tumor_127,Malignant 1 enriched,0.0,36,0.0,Kras-H3K36M-Setd2KO
+Tumor_127,Malignant 1/2 co-enriched,0.0,36,0.0,Kras-H3K36M-Setd2KO
+Tumor_127,Large airway,0.0,36,0.0,Kras-H3K36M-Setd2KO
+Tumor_127,Plasma/B/T co-enriched,0.0,36,0.0,Kras-H3K36M-Setd2KO
+Tumor_127,Lymphatic endothelial enriched,0.0,36,0.0,Kras-H3K36M-Setd2KO
+Tumor_127,Malignant 3 enriched,28.0,36,0.7777777777777778,Kras-H3K36M-Setd2KO
+Tumor_127,Lung parenchyma,8.0,36,0.2222222222222222,Kras-H3K36M-Setd2KO
+Tumor_127,Pleura,0.0,36,0.0,Kras-H3K36M-Setd2KO
+Tumor_134,Malignant 2 (AT2-like) enriched,119.0,135,0.8814814814814815,Kras-H3K36M-Setd2KO
+Tumor_134,Malignant 1 enriched,0.0,135,0.0,Kras-H3K36M-Setd2KO
+Tumor_134,Malignant 1/2 co-enriched,0.0,135,0.0,Kras-H3K36M-Setd2KO
+Tumor_134,Large airway,0.0,135,0.0,Kras-H3K36M-Setd2KO
+Tumor_134,Plasma/B/T co-enriched,0.0,135,0.0,Kras-H3K36M-Setd2KO
+Tumor_134,Lymphatic endothelial enriched,15.0,135,0.1111111111111111,Kras-H3K36M-Setd2KO
+Tumor_134,Malignant 3 enriched,0.0,135,0.0,Kras-H3K36M-Setd2KO
+Tumor_134,Lung parenchyma,1.0,135,0.007407407407407408,Kras-H3K36M-Setd2KO
+Tumor_134,Pleura,0.0,135,0.0,Kras-H3K36M-Setd2KO
+Tumor_135,Malignant 2 (AT2-like) enriched,1098.0,1239,0.8861985472154964,Kras-H3K36M-Setd2KO
+Tumor_135,Malignant 1 enriched,3.0,1239,0.002421307506053269,Kras-H3K36M-Setd2KO
+Tumor_135,Malignant 1/2 co-enriched,51.0,1239,0.04116222760290557,Kras-H3K36M-Setd2KO
+Tumor_135,Large airway,0.0,1239,0.0,Kras-H3K36M-Setd2KO
+Tumor_135,Plasma/B/T co-enriched,41.0,1239,0.033091202582728005,Kras-H3K36M-Setd2KO
+Tumor_135,Lymphatic endothelial enriched,42.0,1239,0.03389830508474576,Kras-H3K36M-Setd2KO
+Tumor_135,Malignant 3 enriched,0.0,1239,0.0,Kras-H3K36M-Setd2KO
+Tumor_135,Lung parenchyma,4.0,1239,0.003228410008071025,Kras-H3K36M-Setd2KO
+Tumor_135,Pleura,0.0,1239,0.0,Kras-H3K36M-Setd2KO
+Tumor_113,Malignant 2 (AT2-like) enriched,25.0,214,0.11682242990654206,Kras-H3K36M-Setd2KO
+Tumor_113,Malignant 1 enriched,0.0,214,0.0,Kras-H3K36M-Setd2KO
+Tumor_113,Malignant 1/2 co-enriched,0.0,214,0.0,Kras-H3K36M-Setd2KO
+Tumor_113,Large airway,0.0,214,0.0,Kras-H3K36M-Setd2KO
+Tumor_113,Plasma/B/T co-enriched,139.0,214,0.6495327102803738,Kras-H3K36M-Setd2KO
+Tumor_113,Lymphatic endothelial enriched,34.0,214,0.1588785046728972,Kras-H3K36M-Setd2KO
+Tumor_113,Malignant 3 enriched,0.0,214,0.0,Kras-H3K36M-Setd2KO
+Tumor_113,Lung parenchyma,16.0,214,0.07476635514018691,Kras-H3K36M-Setd2KO
+Tumor_113,Pleura,0.0,214,0.0,Kras-H3K36M-Setd2KO
+Tumor_2,Malignant 2 (AT2-like) enriched,8211.0,10073,0.8151494093120223,Kras-Ctrl
+Tumor_2,Malignant 1 enriched,0.0,10073,0.0,Kras-Ctrl
+Tumor_2,Malignant 1/2 co-enriched,0.0,10073,0.0,Kras-Ctrl
+Tumor_2,Large airway,0.0,10073,0.0,Kras-Ctrl
+Tumor_2,Plasma/B/T co-enriched,1618.0,10073,0.160627419835203,Kras-Ctrl
+Tumor_2,Lymphatic endothelial enriched,75.0,10073,0.007445646778516827,Kras-Ctrl
+Tumor_2,Malignant 3 enriched,0.0,10073,0.0,Kras-Ctrl
+Tumor_2,Lung parenchyma,154.0,10073,0.015288394718554551,Kras-Ctrl
+Tumor_2,Pleura,15.0,10073,0.0014891293557033655,Kras-Ctrl
+Tumor_18,Malignant 2 (AT2-like) enriched,205.0,377,0.5437665782493368,Kras-Ctrl
+Tumor_18,Malignant 1 enriched,0.0,377,0.0,Kras-Ctrl
+Tumor_18,Malignant 1/2 co-enriched,0.0,377,0.0,Kras-Ctrl
+Tumor_18,Large airway,0.0,377,0.0,Kras-Ctrl
+Tumor_18,Plasma/B/T co-enriched,132.0,377,0.35013262599469497,Kras-Ctrl
+Tumor_18,Lymphatic endothelial enriched,27.0,377,0.07161803713527852,Kras-Ctrl
+Tumor_18,Malignant 3 enriched,0.0,377,0.0,Kras-Ctrl
+Tumor_18,Lung parenchyma,13.0,377,0.034482758620689655,Kras-Ctrl
+Tumor_18,Pleura,0.0,377,0.0,Kras-Ctrl
+Tumor_15,Malignant 2 (AT2-like) enriched,187.0,281,0.6654804270462633,Kras-Ctrl
+Tumor_15,Malignant 1 enriched,0.0,281,0.0,Kras-Ctrl
+Tumor_15,Malignant 1/2 co-enriched,0.0,281,0.0,Kras-Ctrl
+Tumor_15,Large airway,0.0,281,0.0,Kras-Ctrl
+Tumor_15,Plasma/B/T co-enriched,11.0,281,0.03914590747330961,Kras-Ctrl
+Tumor_15,Lymphatic endothelial enriched,10.0,281,0.03558718861209965,Kras-Ctrl
+Tumor_15,Malignant 3 enriched,0.0,281,0.0,Kras-Ctrl
+Tumor_15,Lung parenchyma,73.0,281,0.2597864768683274,Kras-Ctrl
+Tumor_15,Pleura,0.0,281,0.0,Kras-Ctrl
+Tumor_14,Malignant 2 (AT2-like) enriched,139.0,191,0.7277486910994765,Kras-Ctrl
+Tumor_14,Malignant 1 enriched,0.0,191,0.0,Kras-Ctrl
+Tumor_14,Malignant 1/2 co-enriched,0.0,191,0.0,Kras-Ctrl
+Tumor_14,Large airway,0.0,191,0.0,Kras-Ctrl
+Tumor_14,Plasma/B/T co-enriched,2.0,191,0.010471204188481676,Kras-Ctrl
+Tumor_14,Lymphatic endothelial enriched,23.0,191,0.12041884816753927,Kras-Ctrl
+Tumor_14,Malignant 3 enriched,0.0,191,0.0,Kras-Ctrl
+Tumor_14,Lung parenchyma,27.0,191,0.14136125654450263,Kras-Ctrl
+Tumor_14,Pleura,0.0,191,0.0,Kras-Ctrl
+Tumor_17,Malignant 2 (AT2-like) enriched,388.0,470,0.825531914893617,Kras-Ctrl
+Tumor_17,Malignant 1 enriched,0.0,470,0.0,Kras-Ctrl
+Tumor_17,Malignant 1/2 co-enriched,0.0,470,0.0,Kras-Ctrl
+Tumor_17,Large airway,0.0,470,0.0,Kras-Ctrl
+Tumor_17,Plasma/B/T co-enriched,43.0,470,0.09148936170212765,Kras-Ctrl
+Tumor_17,Lymphatic endothelial enriched,2.0,470,0.00425531914893617,Kras-Ctrl
+Tumor_17,Malignant 3 enriched,0.0,470,0.0,Kras-Ctrl
+Tumor_17,Lung parenchyma,37.0,470,0.07872340425531915,Kras-Ctrl
+Tumor_17,Pleura,0.0,470,0.0,Kras-Ctrl
+Tumor_9,Malignant 2 (AT2-like) enriched,173.0,255,0.6784313725490196,Kras-Ctrl
+Tumor_9,Malignant 1 enriched,0.0,255,0.0,Kras-Ctrl
+Tumor_9,Malignant 1/2 co-enriched,0.0,255,0.0,Kras-Ctrl
+Tumor_9,Large airway,0.0,255,0.0,Kras-Ctrl
+Tumor_9,Plasma/B/T co-enriched,15.0,255,0.058823529411764705,Kras-Ctrl
+Tumor_9,Lymphatic endothelial enriched,0.0,255,0.0,Kras-Ctrl
+Tumor_9,Malignant 3 enriched,0.0,255,0.0,Kras-Ctrl
+Tumor_9,Lung parenchyma,67.0,255,0.2627450980392157,Kras-Ctrl
+Tumor_9,Pleura,0.0,255,0.0,Kras-Ctrl
+Tumor_6,Malignant 2 (AT2-like) enriched,13.0,22,0.5909090909090909,Kras-Ctrl
+Tumor_6,Malignant 1 enriched,0.0,22,0.0,Kras-Ctrl
+Tumor_6,Malignant 1/2 co-enriched,0.0,22,0.0,Kras-Ctrl
+Tumor_6,Large airway,0.0,22,0.0,Kras-Ctrl
+Tumor_6,Plasma/B/T co-enriched,0.0,22,0.0,Kras-Ctrl
+Tumor_6,Lymphatic endothelial enriched,1.0,22,0.045454545454545456,Kras-Ctrl
+Tumor_6,Malignant 3 enriched,0.0,22,0.0,Kras-Ctrl
+Tumor_6,Lung parenchyma,8.0,22,0.36363636363636365,Kras-Ctrl
+Tumor_6,Pleura,0.0,22,0.0,Kras-Ctrl
+Tumor_8,Malignant 2 (AT2-like) enriched,644.0,1075,0.5990697674418605,Kras-Ctrl
+Tumor_8,Malignant 1 enriched,0.0,1075,0.0,Kras-Ctrl
+Tumor_8,Malignant 1/2 co-enriched,0.0,1075,0.0,Kras-Ctrl
+Tumor_8,Large airway,9.0,1075,0.008372093023255815,Kras-Ctrl
+Tumor_8,Plasma/B/T co-enriched,339.0,1075,0.31534883720930235,Kras-Ctrl
+Tumor_8,Lymphatic endothelial enriched,10.0,1075,0.009302325581395349,Kras-Ctrl
+Tumor_8,Malignant 3 enriched,0.0,1075,0.0,Kras-Ctrl
+Tumor_8,Lung parenchyma,73.0,1075,0.06790697674418604,Kras-Ctrl
+Tumor_8,Pleura,0.0,1075,0.0,Kras-Ctrl
+Tumor_40,Malignant 2 (AT2-like) enriched,966.0,1225,0.7885714285714286,Kras-Ctrl
+Tumor_40,Malignant 1 enriched,0.0,1225,0.0,Kras-Ctrl
+Tumor_40,Malignant 1/2 co-enriched,0.0,1225,0.0,Kras-Ctrl
+Tumor_40,Large airway,0.0,1225,0.0,Kras-Ctrl
+Tumor_40,Plasma/B/T co-enriched,223.0,1225,0.1820408163265306,Kras-Ctrl
+Tumor_40,Lymphatic endothelial enriched,8.0,1225,0.006530612244897959,Kras-Ctrl
+Tumor_40,Malignant 3 enriched,0.0,1225,0.0,Kras-Ctrl
+Tumor_40,Lung parenchyma,28.0,1225,0.022857142857142857,Kras-Ctrl
+Tumor_40,Pleura,0.0,1225,0.0,Kras-Ctrl
+Tumor_42,Malignant 2 (AT2-like) enriched,952.0,1162,0.8192771084337349,Kras-Ctrl
+Tumor_42,Malignant 1 enriched,0.0,1162,0.0,Kras-Ctrl
+Tumor_42,Malignant 1/2 co-enriched,0.0,1162,0.0,Kras-Ctrl
+Tumor_42,Large airway,0.0,1162,0.0,Kras-Ctrl
+Tumor_42,Plasma/B/T co-enriched,191.0,1162,0.16437177280550774,Kras-Ctrl
+Tumor_42,Lymphatic endothelial enriched,5.0,1162,0.004302925989672977,Kras-Ctrl
+Tumor_42,Malignant 3 enriched,0.0,1162,0.0,Kras-Ctrl
+Tumor_42,Lung parenchyma,14.0,1162,0.012048192771084338,Kras-Ctrl
+Tumor_42,Pleura,0.0,1162,0.0,Kras-Ctrl
+Tumor_36,Malignant 2 (AT2-like) enriched,1130.0,2287,0.4940970703979012,Kras-Ctrl
+Tumor_36,Malignant 1 enriched,0.0,2287,0.0,Kras-Ctrl
+Tumor_36,Malignant 1/2 co-enriched,0.0,2287,0.0,Kras-Ctrl
+Tumor_36,Large airway,1.0,2287,0.00043725404459991256,Kras-Ctrl
+Tumor_36,Plasma/B/T co-enriched,1111.0,2287,0.48578924355050285,Kras-Ctrl
+Tumor_36,Lymphatic endothelial enriched,22.0,2287,0.009619588981198076,Kras-Ctrl
+Tumor_36,Malignant 3 enriched,0.0,2287,0.0,Kras-Ctrl
+Tumor_36,Lung parenchyma,23.0,2287,0.010056843025797988,Kras-Ctrl
+Tumor_36,Pleura,0.0,2287,0.0,Kras-Ctrl
+Tumor_44,Malignant 2 (AT2-like) enriched,451.0,600,0.7516666666666667,Kras-Ctrl
+Tumor_44,Malignant 1 enriched,0.0,600,0.0,Kras-Ctrl
+Tumor_44,Malignant 1/2 co-enriched,0.0,600,0.0,Kras-Ctrl
+Tumor_44,Large airway,0.0,600,0.0,Kras-Ctrl
+Tumor_44,Plasma/B/T co-enriched,125.0,600,0.20833333333333334,Kras-Ctrl
+Tumor_44,Lymphatic endothelial enriched,16.0,600,0.02666666666666667,Kras-Ctrl
+Tumor_44,Malignant 3 enriched,0.0,600,0.0,Kras-Ctrl
+Tumor_44,Lung parenchyma,8.0,600,0.013333333333333334,Kras-Ctrl
+Tumor_44,Pleura,0.0,600,0.0,Kras-Ctrl
+Tumor_46,Malignant 2 (AT2-like) enriched,2248.0,2622,0.8573607932875668,Kras-Ctrl
+Tumor_46,Malignant 1 enriched,0.0,2622,0.0,Kras-Ctrl
+Tumor_46,Malignant 1/2 co-enriched,0.0,2622,0.0,Kras-Ctrl
+Tumor_46,Large airway,0.0,2622,0.0,Kras-Ctrl
+Tumor_46,Plasma/B/T co-enriched,327.0,2622,0.12471395881006865,Kras-Ctrl
+Tumor_46,Lymphatic endothelial enriched,12.0,2622,0.004576659038901602,Kras-Ctrl
+Tumor_46,Malignant 3 enriched,0.0,2622,0.0,Kras-Ctrl
+Tumor_46,Lung parenchyma,35.0,2622,0.013348588863463006,Kras-Ctrl
+Tumor_46,Pleura,0.0,2622,0.0,Kras-Ctrl
+Tumor_47,Malignant 2 (AT2-like) enriched,1840.0,1978,0.9302325581395349,Kras-Ctrl
+Tumor_47,Malignant 1 enriched,0.0,1978,0.0,Kras-Ctrl
+Tumor_47,Malignant 1/2 co-enriched,0.0,1978,0.0,Kras-Ctrl
+Tumor_47,Large airway,0.0,1978,0.0,Kras-Ctrl
+Tumor_47,Plasma/B/T co-enriched,54.0,1978,0.027300303336703743,Kras-Ctrl
+Tumor_47,Lymphatic endothelial enriched,16.0,1978,0.008088978766430738,Kras-Ctrl
+Tumor_47,Malignant 3 enriched,0.0,1978,0.0,Kras-Ctrl
+Tumor_47,Lung parenchyma,68.0,1978,0.034378159757330634,Kras-Ctrl
+Tumor_47,Pleura,0.0,1978,0.0,Kras-Ctrl
+Tumor_50,Malignant 2 (AT2-like) enriched,3137.0,3243,0.9673142152328091,Kras-Ctrl
+Tumor_50,Malignant 1 enriched,0.0,3243,0.0,Kras-Ctrl
+Tumor_50,Malignant 1/2 co-enriched,0.0,3243,0.0,Kras-Ctrl
+Tumor_50,Large airway,0.0,3243,0.0,Kras-Ctrl
+Tumor_50,Plasma/B/T co-enriched,47.0,3243,0.014492753623188406,Kras-Ctrl
+Tumor_50,Lymphatic endothelial enriched,16.0,3243,0.004933703361085414,Kras-Ctrl
+Tumor_50,Malignant 3 enriched,0.0,3243,0.0,Kras-Ctrl
+Tumor_50,Lung parenchyma,43.0,3243,0.013259327782917052,Kras-Ctrl
+Tumor_50,Pleura,0.0,3243,0.0,Kras-Ctrl
+Tumor_39,Malignant 2 (AT2-like) enriched,2115.0,3093,0.6838021338506305,Kras-Ctrl
+Tumor_39,Malignant 1 enriched,0.0,3093,0.0,Kras-Ctrl
+Tumor_39,Malignant 1/2 co-enriched,0.0,3093,0.0,Kras-Ctrl
+Tumor_39,Large airway,0.0,3093,0.0,Kras-Ctrl
+Tumor_39,Plasma/B/T co-enriched,932.0,3093,0.30132557387649533,Kras-Ctrl
+Tumor_39,Lymphatic endothelial enriched,7.0,3093,0.0022631749110895573,Kras-Ctrl
+Tumor_39,Malignant 3 enriched,0.0,3093,0.0,Kras-Ctrl
+Tumor_39,Lung parenchyma,39.0,3093,0.012609117361784675,Kras-Ctrl
+Tumor_39,Pleura,0.0,3093,0.0,Kras-Ctrl
+Tumor_30,Malignant 2 (AT2-like) enriched,1354.0,1624,0.833743842364532,Kras-Ctrl
+Tumor_30,Malignant 1 enriched,0.0,1624,0.0,Kras-Ctrl
+Tumor_30,Malignant 1/2 co-enriched,0.0,1624,0.0,Kras-Ctrl
+Tumor_30,Large airway,0.0,1624,0.0,Kras-Ctrl
+Tumor_30,Plasma/B/T co-enriched,181.0,1624,0.11145320197044335,Kras-Ctrl
+Tumor_30,Lymphatic endothelial enriched,11.0,1624,0.0067733990147783255,Kras-Ctrl
+Tumor_30,Malignant 3 enriched,0.0,1624,0.0,Kras-Ctrl
+Tumor_30,Lung parenchyma,78.0,1624,0.0480295566502463,Kras-Ctrl
+Tumor_30,Pleura,0.0,1624,0.0,Kras-Ctrl
+Tumor_26,Malignant 2 (AT2-like) enriched,433.0,499,0.8677354709418837,Kras-Ctrl
+Tumor_26,Malignant 1 enriched,0.0,499,0.0,Kras-Ctrl
+Tumor_26,Malignant 1/2 co-enriched,0.0,499,0.0,Kras-Ctrl
+Tumor_26,Large airway,0.0,499,0.0,Kras-Ctrl
+Tumor_26,Plasma/B/T co-enriched,0.0,499,0.0,Kras-Ctrl
+Tumor_26,Lymphatic endothelial enriched,3.0,499,0.006012024048096192,Kras-Ctrl
+Tumor_26,Malignant 3 enriched,0.0,499,0.0,Kras-Ctrl
+Tumor_26,Lung parenchyma,63.0,499,0.12625250501002003,Kras-Ctrl
+Tumor_26,Pleura,0.0,499,0.0,Kras-Ctrl
+Tumor_53,Malignant 2 (AT2-like) enriched,30.0,44,0.6818181818181818,Kras-Ctrl
+Tumor_53,Malignant 1 enriched,0.0,44,0.0,Kras-Ctrl
+Tumor_53,Malignant 1/2 co-enriched,0.0,44,0.0,Kras-Ctrl
+Tumor_53,Large airway,0.0,44,0.0,Kras-Ctrl
+Tumor_53,Plasma/B/T co-enriched,0.0,44,0.0,Kras-Ctrl
+Tumor_53,Lymphatic endothelial enriched,13.0,44,0.29545454545454547,Kras-Ctrl
+Tumor_53,Malignant 3 enriched,0.0,44,0.0,Kras-Ctrl
+Tumor_53,Lung parenchyma,1.0,44,0.022727272727272728,Kras-Ctrl
+Tumor_53,Pleura,0.0,44,0.0,Kras-Ctrl
+Tumor_31,Malignant 2 (AT2-like) enriched,2836.0,3379,0.8393015685113939,Kras-Ctrl
+Tumor_31,Malignant 1 enriched,0.0,3379,0.0,Kras-Ctrl
+Tumor_31,Malignant 1/2 co-enriched,0.0,3379,0.0,Kras-Ctrl
+Tumor_31,Large airway,0.0,3379,0.0,Kras-Ctrl
+Tumor_31,Plasma/B/T co-enriched,442.0,3379,0.13080793134063332,Kras-Ctrl
+Tumor_31,Lymphatic endothelial enriched,24.0,3379,0.007102693104468778,Kras-Ctrl
+Tumor_31,Malignant 3 enriched,0.0,3379,0.0,Kras-Ctrl
+Tumor_31,Lung parenchyma,77.0,3379,0.022787807043503996,Kras-Ctrl
+Tumor_31,Pleura,0.0,3379,0.0,Kras-Ctrl
+Tumor_35,Malignant 2 (AT2-like) enriched,877.0,1237,0.7089733225545675,Kras-Ctrl
+Tumor_35,Malignant 1 enriched,0.0,1237,0.0,Kras-Ctrl
+Tumor_35,Malignant 1/2 co-enriched,0.0,1237,0.0,Kras-Ctrl
+Tumor_35,Large airway,0.0,1237,0.0,Kras-Ctrl
+Tumor_35,Plasma/B/T co-enriched,318.0,1237,0.2570735650767987,Kras-Ctrl
+Tumor_35,Lymphatic endothelial enriched,15.0,1237,0.012126111560226353,Kras-Ctrl
+Tumor_35,Malignant 3 enriched,0.0,1237,0.0,Kras-Ctrl
+Tumor_35,Lung parenchyma,27.0,1237,0.021827000808407437,Kras-Ctrl
+Tumor_35,Pleura,0.0,1237,0.0,Kras-Ctrl
+Tumor_41,Malignant 2 (AT2-like) enriched,6.0,28,0.21428571428571427,Kras-Ctrl
+Tumor_41,Malignant 1 enriched,0.0,28,0.0,Kras-Ctrl
+Tumor_41,Malignant 1/2 co-enriched,0.0,28,0.0,Kras-Ctrl
+Tumor_41,Large airway,0.0,28,0.0,Kras-Ctrl
+Tumor_41,Plasma/B/T co-enriched,0.0,28,0.0,Kras-Ctrl
+Tumor_41,Lymphatic endothelial enriched,1.0,28,0.03571428571428571,Kras-Ctrl
+Tumor_41,Malignant 3 enriched,0.0,28,0.0,Kras-Ctrl
+Tumor_41,Lung parenchyma,21.0,28,0.75,Kras-Ctrl
+Tumor_41,Pleura,0.0,28,0.0,Kras-Ctrl
+Tumor_43,Malignant 2 (AT2-like) enriched,3949.0,4335,0.9109573241061131,Kras-Ctrl
+Tumor_43,Malignant 1 enriched,0.0,4335,0.0,Kras-Ctrl
+Tumor_43,Malignant 1/2 co-enriched,0.0,4335,0.0,Kras-Ctrl
+Tumor_43,Large airway,10.0,4335,0.002306805074971165,Kras-Ctrl
+Tumor_43,Plasma/B/T co-enriched,300.0,4335,0.06920415224913495,Kras-Ctrl
+Tumor_43,Lymphatic endothelial enriched,37.0,4335,0.00853517877739331,Kras-Ctrl
+Tumor_43,Malignant 3 enriched,0.0,4335,0.0,Kras-Ctrl
+Tumor_43,Lung parenchyma,39.0,4335,0.008996539792387544,Kras-Ctrl
+Tumor_43,Pleura,0.0,4335,0.0,Kras-Ctrl
+Tumor_33,Malignant 2 (AT2-like) enriched,728.0,1512,0.48148148148148145,Kras-Ctrl
+Tumor_33,Malignant 1 enriched,0.0,1512,0.0,Kras-Ctrl
+Tumor_33,Malignant 1/2 co-enriched,0.0,1512,0.0,Kras-Ctrl
+Tumor_33,Large airway,0.0,1512,0.0,Kras-Ctrl
+Tumor_33,Plasma/B/T co-enriched,729.0,1512,0.48214285714285715,Kras-Ctrl
+Tumor_33,Lymphatic endothelial enriched,32.0,1512,0.021164021164021163,Kras-Ctrl
+Tumor_33,Malignant 3 enriched,0.0,1512,0.0,Kras-Ctrl
+Tumor_33,Lung parenchyma,23.0,1512,0.01521164021164021,Kras-Ctrl
+Tumor_33,Pleura,0.0,1512,0.0,Kras-Ctrl
+Tumor_48,Malignant 2 (AT2-like) enriched,82.0,168,0.4880952380952381,Kras-Ctrl
+Tumor_48,Malignant 1 enriched,0.0,168,0.0,Kras-Ctrl
+Tumor_48,Malignant 1/2 co-enriched,0.0,168,0.0,Kras-Ctrl
+Tumor_48,Large airway,12.0,168,0.07142857142857142,Kras-Ctrl
+Tumor_48,Plasma/B/T co-enriched,55.0,168,0.3273809523809524,Kras-Ctrl
+Tumor_48,Lymphatic endothelial enriched,1.0,168,0.005952380952380952,Kras-Ctrl
+Tumor_48,Malignant 3 enriched,0.0,168,0.0,Kras-Ctrl
+Tumor_48,Lung parenchyma,18.0,168,0.10714285714285714,Kras-Ctrl
+Tumor_48,Pleura,0.0,168,0.0,Kras-Ctrl
+Tumor_49,Malignant 2 (AT2-like) enriched,259.0,372,0.696236559139785,Kras-Ctrl
+Tumor_49,Malignant 1 enriched,0.0,372,0.0,Kras-Ctrl
+Tumor_49,Malignant 1/2 co-enriched,0.0,372,0.0,Kras-Ctrl
+Tumor_49,Large airway,2.0,372,0.005376344086021506,Kras-Ctrl
+Tumor_49,Plasma/B/T co-enriched,62.0,372,0.16666666666666666,Kras-Ctrl
+Tumor_49,Lymphatic endothelial enriched,14.0,372,0.03763440860215054,Kras-Ctrl
+Tumor_49,Malignant 3 enriched,0.0,372,0.0,Kras-Ctrl
+Tumor_49,Lung parenchyma,35.0,372,0.09408602150537634,Kras-Ctrl
+Tumor_49,Pleura,0.0,372,0.0,Kras-Ctrl
+Tumor_52,Malignant 2 (AT2-like) enriched,1681.0,1762,0.9540295119182747,Kras-Ctrl
+Tumor_52,Malignant 1 enriched,0.0,1762,0.0,Kras-Ctrl
+Tumor_52,Malignant 1/2 co-enriched,0.0,1762,0.0,Kras-Ctrl
+Tumor_52,Large airway,0.0,1762,0.0,Kras-Ctrl
+Tumor_52,Plasma/B/T co-enriched,9.0,1762,0.00510783200908059,Kras-Ctrl
+Tumor_52,Lymphatic endothelial enriched,4.0,1762,0.0022701475595913734,Kras-Ctrl
+Tumor_52,Malignant 3 enriched,0.0,1762,0.0,Kras-Ctrl
+Tumor_52,Lung parenchyma,68.0,1762,0.03859250851305335,Kras-Ctrl
+Tumor_52,Pleura,0.0,1762,0.0,Kras-Ctrl
+Tumor_45,Malignant 2 (AT2-like) enriched,1019.0,1306,0.7802450229709035,Kras-Ctrl
+Tumor_45,Malignant 1 enriched,0.0,1306,0.0,Kras-Ctrl
+Tumor_45,Malignant 1/2 co-enriched,0.0,1306,0.0,Kras-Ctrl
+Tumor_45,Large airway,0.0,1306,0.0,Kras-Ctrl
+Tumor_45,Plasma/B/T co-enriched,202.0,1306,0.1546707503828484,Kras-Ctrl
+Tumor_45,Lymphatic endothelial enriched,30.0,1306,0.022970903522205207,Kras-Ctrl
+Tumor_45,Malignant 3 enriched,0.0,1306,0.0,Kras-Ctrl
+Tumor_45,Lung parenchyma,55.0,1306,0.04211332312404288,Kras-Ctrl
+Tumor_45,Pleura,0.0,1306,0.0,Kras-Ctrl
+Tumor_51,Malignant 2 (AT2-like) enriched,1150.0,1309,0.878533231474408,Kras-Ctrl
+Tumor_51,Malignant 1 enriched,0.0,1309,0.0,Kras-Ctrl
+Tumor_51,Malignant 1/2 co-enriched,0.0,1309,0.0,Kras-Ctrl
+Tumor_51,Large airway,0.0,1309,0.0,Kras-Ctrl
+Tumor_51,Plasma/B/T co-enriched,130.0,1309,0.09931245225362872,Kras-Ctrl
+Tumor_51,Lymphatic endothelial enriched,12.0,1309,0.009167303284950344,Kras-Ctrl
+Tumor_51,Malignant 3 enriched,0.0,1309,0.0,Kras-Ctrl
+Tumor_51,Lung parenchyma,17.0,1309,0.012987012987012988,Kras-Ctrl
+Tumor_51,Pleura,0.0,1309,0.0,Kras-Ctrl
+Tumor_54,Malignant 2 (AT2-like) enriched,100.0,124,0.8064516129032258,Kras-Ctrl
+Tumor_54,Malignant 1 enriched,0.0,124,0.0,Kras-Ctrl
+Tumor_54,Malignant 1/2 co-enriched,0.0,124,0.0,Kras-Ctrl
+Tumor_54,Large airway,0.0,124,0.0,Kras-Ctrl
+Tumor_54,Plasma/B/T co-enriched,0.0,124,0.0,Kras-Ctrl
+Tumor_54,Lymphatic endothelial enriched,6.0,124,0.04838709677419355,Kras-Ctrl
+Tumor_54,Malignant 3 enriched,0.0,124,0.0,Kras-Ctrl
+Tumor_54,Lung parenchyma,18.0,124,0.14516129032258066,Kras-Ctrl
+Tumor_54,Pleura,0.0,124,0.0,Kras-Ctrl
+Tumor_29,Malignant 2 (AT2-like) enriched,2139.0,2370,0.9025316455696203,Kras-Ctrl
+Tumor_29,Malignant 1 enriched,0.0,2370,0.0,Kras-Ctrl
+Tumor_29,Malignant 1/2 co-enriched,0.0,2370,0.0,Kras-Ctrl
+Tumor_29,Large airway,2.0,2370,0.0008438818565400844,Kras-Ctrl
+Tumor_29,Plasma/B/T co-enriched,162.0,2370,0.06835443037974684,Kras-Ctrl
+Tumor_29,Lymphatic endothelial enriched,23.0,2370,0.009704641350210971,Kras-Ctrl
+Tumor_29,Malignant 3 enriched,0.0,2370,0.0,Kras-Ctrl
+Tumor_29,Lung parenchyma,44.0,2370,0.018565400843881856,Kras-Ctrl
+Tumor_29,Pleura,0.0,2370,0.0,Kras-Ctrl
+Tumor_32,Malignant 2 (AT2-like) enriched,480.0,585,0.8205128205128205,Kras-Ctrl
+Tumor_32,Malignant 1 enriched,0.0,585,0.0,Kras-Ctrl
+Tumor_32,Malignant 1/2 co-enriched,0.0,585,0.0,Kras-Ctrl
+Tumor_32,Large airway,0.0,585,0.0,Kras-Ctrl
+Tumor_32,Plasma/B/T co-enriched,66.0,585,0.11282051282051282,Kras-Ctrl
+Tumor_32,Lymphatic endothelial enriched,18.0,585,0.03076923076923077,Kras-Ctrl
+Tumor_32,Malignant 3 enriched,0.0,585,0.0,Kras-Ctrl
+Tumor_32,Lung parenchyma,16.0,585,0.02735042735042735,Kras-Ctrl
+Tumor_32,Pleura,5.0,585,0.008547008547008548,Kras-Ctrl
+Tumor_25,Malignant 2 (AT2-like) enriched,77.0,102,0.7549019607843137,Kras-Ctrl
+Tumor_25,Malignant 1 enriched,0.0,102,0.0,Kras-Ctrl
+Tumor_25,Malignant 1/2 co-enriched,0.0,102,0.0,Kras-Ctrl
+Tumor_25,Large airway,0.0,102,0.0,Kras-Ctrl
+Tumor_25,Plasma/B/T co-enriched,9.0,102,0.08823529411764706,Kras-Ctrl
+Tumor_25,Lymphatic endothelial enriched,2.0,102,0.0196078431372549,Kras-Ctrl
+Tumor_25,Malignant 3 enriched,0.0,102,0.0,Kras-Ctrl
+Tumor_25,Lung parenchyma,14.0,102,0.13725490196078433,Kras-Ctrl
+Tumor_25,Pleura,0.0,102,0.0,Kras-Ctrl
+Tumor_23,Malignant 2 (AT2-like) enriched,111.0,195,0.5692307692307692,Kras-Ctrl
+Tumor_23,Malignant 1 enriched,0.0,195,0.0,Kras-Ctrl
+Tumor_23,Malignant 1/2 co-enriched,0.0,195,0.0,Kras-Ctrl
+Tumor_23,Large airway,0.0,195,0.0,Kras-Ctrl
+Tumor_23,Plasma/B/T co-enriched,65.0,195,0.3333333333333333,Kras-Ctrl
+Tumor_23,Lymphatic endothelial enriched,10.0,195,0.05128205128205128,Kras-Ctrl
+Tumor_23,Malignant 3 enriched,0.0,195,0.0,Kras-Ctrl
+Tumor_23,Lung parenchyma,9.0,195,0.046153846153846156,Kras-Ctrl
+Tumor_23,Pleura,0.0,195,0.0,Kras-Ctrl
+Tumor_37,Malignant 2 (AT2-like) enriched,835.0,1027,0.813047711781889,Kras-Ctrl
+Tumor_37,Malignant 1 enriched,0.0,1027,0.0,Kras-Ctrl
+Tumor_37,Malignant 1/2 co-enriched,0.0,1027,0.0,Kras-Ctrl
+Tumor_37,Large airway,0.0,1027,0.0,Kras-Ctrl
+Tumor_37,Plasma/B/T co-enriched,106.0,1027,0.10321324245374879,Kras-Ctrl
+Tumor_37,Lymphatic endothelial enriched,39.0,1027,0.0379746835443038,Kras-Ctrl
+Tumor_37,Malignant 3 enriched,0.0,1027,0.0,Kras-Ctrl
+Tumor_37,Lung parenchyma,47.0,1027,0.045764362220058426,Kras-Ctrl
+Tumor_37,Pleura,0.0,1027,0.0,Kras-Ctrl
+Tumor_34,Malignant 2 (AT2-like) enriched,787.0,835,0.9425149700598803,Kras-Ctrl
+Tumor_34,Malignant 1 enriched,0.0,835,0.0,Kras-Ctrl
+Tumor_34,Malignant 1/2 co-enriched,0.0,835,0.0,Kras-Ctrl
+Tumor_34,Large airway,0.0,835,0.0,Kras-Ctrl
+Tumor_34,Plasma/B/T co-enriched,2.0,835,0.0023952095808383233,Kras-Ctrl
+Tumor_34,Lymphatic endothelial enriched,5.0,835,0.005988023952095809,Kras-Ctrl
+Tumor_34,Malignant 3 enriched,0.0,835,0.0,Kras-Ctrl
+Tumor_34,Lung parenchyma,41.0,835,0.04910179640718563,Kras-Ctrl
+Tumor_34,Pleura,0.0,835,0.0,Kras-Ctrl
+Tumor_12,Malignant 2 (AT2-like) enriched,1042.0,1503,0.6932801064537591,Kras-Ctrl
+Tumor_12,Malignant 1 enriched,0.0,1503,0.0,Kras-Ctrl
+Tumor_12,Malignant 1/2 co-enriched,0.0,1503,0.0,Kras-Ctrl
+Tumor_12,Large airway,0.0,1503,0.0,Kras-Ctrl
+Tumor_12,Plasma/B/T co-enriched,396.0,1503,0.2634730538922156,Kras-Ctrl
+Tumor_12,Lymphatic endothelial enriched,8.0,1503,0.0053226879574184965,Kras-Ctrl
+Tumor_12,Malignant 3 enriched,0.0,1503,0.0,Kras-Ctrl
+Tumor_12,Lung parenchyma,57.0,1503,0.03792415169660679,Kras-Ctrl
+Tumor_12,Pleura,0.0,1503,0.0,Kras-Ctrl
+Tumor_21,Malignant 2 (AT2-like) enriched,2.0,26,0.07692307692307693,Kras-Ctrl
+Tumor_21,Malignant 1 enriched,0.0,26,0.0,Kras-Ctrl
+Tumor_21,Malignant 1/2 co-enriched,0.0,26,0.0,Kras-Ctrl
+Tumor_21,Large airway,0.0,26,0.0,Kras-Ctrl
+Tumor_21,Plasma/B/T co-enriched,2.0,26,0.07692307692307693,Kras-Ctrl
+Tumor_21,Lymphatic endothelial enriched,10.0,26,0.38461538461538464,Kras-Ctrl
+Tumor_21,Malignant 3 enriched,0.0,26,0.0,Kras-Ctrl
+Tumor_21,Lung parenchyma,12.0,26,0.46153846153846156,Kras-Ctrl
+Tumor_21,Pleura,0.0,26,0.0,Kras-Ctrl
+Tumor_19,Malignant 2 (AT2-like) enriched,43.0,146,0.2945205479452055,Kras-Ctrl
+Tumor_19,Malignant 1 enriched,0.0,146,0.0,Kras-Ctrl
+Tumor_19,Malignant 1/2 co-enriched,0.0,146,0.0,Kras-Ctrl
+Tumor_19,Large airway,0.0,146,0.0,Kras-Ctrl
+Tumor_19,Plasma/B/T co-enriched,72.0,146,0.4931506849315068,Kras-Ctrl
+Tumor_19,Lymphatic endothelial enriched,25.0,146,0.17123287671232876,Kras-Ctrl
+Tumor_19,Malignant 3 enriched,0.0,146,0.0,Kras-Ctrl
+Tumor_19,Lung parenchyma,6.0,146,0.0410958904109589,Kras-Ctrl
+Tumor_19,Pleura,0.0,146,0.0,Kras-Ctrl
+Tumor_13,Malignant 2 (AT2-like) enriched,1320.0,1529,0.8633093525179856,Kras-Ctrl
+Tumor_13,Malignant 1 enriched,0.0,1529,0.0,Kras-Ctrl
+Tumor_13,Malignant 1/2 co-enriched,0.0,1529,0.0,Kras-Ctrl
+Tumor_13,Large airway,0.0,1529,0.0,Kras-Ctrl
+Tumor_13,Plasma/B/T co-enriched,153.0,1529,0.1000654022236756,Kras-Ctrl
+Tumor_13,Lymphatic endothelial enriched,17.0,1529,0.011118378024852845,Kras-Ctrl
+Tumor_13,Malignant 3 enriched,0.0,1529,0.0,Kras-Ctrl
+Tumor_13,Lung parenchyma,39.0,1529,0.025506867233485938,Kras-Ctrl
+Tumor_13,Pleura,0.0,1529,0.0,Kras-Ctrl
+Tumor_4,Malignant 2 (AT2-like) enriched,1520.0,1919,0.7920792079207921,Kras-Ctrl
+Tumor_4,Malignant 1 enriched,0.0,1919,0.0,Kras-Ctrl
+Tumor_4,Malignant 1/2 co-enriched,0.0,1919,0.0,Kras-Ctrl
+Tumor_4,Large airway,1.0,1919,0.0005211047420531526,Kras-Ctrl
+Tumor_4,Plasma/B/T co-enriched,271.0,1919,0.1412193850964044,Kras-Ctrl
+Tumor_4,Lymphatic endothelial enriched,15.0,1919,0.007816571130797291,Kras-Ctrl
+Tumor_4,Malignant 3 enriched,0.0,1919,0.0,Kras-Ctrl
+Tumor_4,Lung parenchyma,112.0,1919,0.0583637311099531,Kras-Ctrl
+Tumor_4,Pleura,0.0,1919,0.0,Kras-Ctrl
+Tumor_3,Malignant 2 (AT2-like) enriched,712.0,841,0.8466111771700356,Kras-Ctrl
+Tumor_3,Malignant 1 enriched,0.0,841,0.0,Kras-Ctrl
+Tumor_3,Malignant 1/2 co-enriched,0.0,841,0.0,Kras-Ctrl
+Tumor_3,Large airway,0.0,841,0.0,Kras-Ctrl
+Tumor_3,Plasma/B/T co-enriched,92.0,841,0.10939357907253269,Kras-Ctrl
+Tumor_3,Lymphatic endothelial enriched,15.0,841,0.0178359096313912,Kras-Ctrl
+Tumor_3,Malignant 3 enriched,0.0,841,0.0,Kras-Ctrl
+Tumor_3,Lung parenchyma,17.0,841,0.020214030915576695,Kras-Ctrl
+Tumor_3,Pleura,5.0,841,0.005945303210463734,Kras-Ctrl
+Tumor_1,Malignant 2 (AT2-like) enriched,209.0,271,0.7712177121771218,Kras-Ctrl
+Tumor_1,Malignant 1 enriched,0.0,271,0.0,Kras-Ctrl
+Tumor_1,Malignant 1/2 co-enriched,0.0,271,0.0,Kras-Ctrl
+Tumor_1,Large airway,0.0,271,0.0,Kras-Ctrl
+Tumor_1,Plasma/B/T co-enriched,33.0,271,0.12177121771217712,Kras-Ctrl
+Tumor_1,Lymphatic endothelial enriched,4.0,271,0.014760147601476014,Kras-Ctrl
+Tumor_1,Malignant 3 enriched,0.0,271,0.0,Kras-Ctrl
+Tumor_1,Lung parenchyma,9.0,271,0.033210332103321034,Kras-Ctrl
+Tumor_1,Pleura,16.0,271,0.05904059040590406,Kras-Ctrl
+Tumor_7,Malignant 2 (AT2-like) enriched,30.0,98,0.30612244897959184,Kras-Ctrl
+Tumor_7,Malignant 1 enriched,0.0,98,0.0,Kras-Ctrl
+Tumor_7,Malignant 1/2 co-enriched,0.0,98,0.0,Kras-Ctrl
+Tumor_7,Large airway,0.0,98,0.0,Kras-Ctrl
+Tumor_7,Plasma/B/T co-enriched,26.0,98,0.2653061224489796,Kras-Ctrl
+Tumor_7,Lymphatic endothelial enriched,2.0,98,0.02040816326530612,Kras-Ctrl
+Tumor_7,Malignant 3 enriched,0.0,98,0.0,Kras-Ctrl
+Tumor_7,Lung parenchyma,40.0,98,0.40816326530612246,Kras-Ctrl
+Tumor_7,Pleura,0.0,98,0.0,Kras-Ctrl
+Tumor_5,Malignant 2 (AT2-like) enriched,21.0,47,0.44680851063829785,Kras-Ctrl
+Tumor_5,Malignant 1 enriched,0.0,47,0.0,Kras-Ctrl
+Tumor_5,Malignant 1/2 co-enriched,0.0,47,0.0,Kras-Ctrl
+Tumor_5,Large airway,0.0,47,0.0,Kras-Ctrl
+Tumor_5,Plasma/B/T co-enriched,0.0,47,0.0,Kras-Ctrl
+Tumor_5,Lymphatic endothelial enriched,2.0,47,0.0425531914893617,Kras-Ctrl
+Tumor_5,Malignant 3 enriched,0.0,47,0.0,Kras-Ctrl
+Tumor_5,Lung parenchyma,24.0,47,0.5106382978723404,Kras-Ctrl
+Tumor_5,Pleura,0.0,47,0.0,Kras-Ctrl
+Tumor_11,Malignant 2 (AT2-like) enriched,3761.0,4517,0.8326322780606598,Kras-Ctrl
+Tumor_11,Malignant 1 enriched,0.0,4517,0.0,Kras-Ctrl
+Tumor_11,Malignant 1/2 co-enriched,0.0,4517,0.0,Kras-Ctrl
+Tumor_11,Large airway,18.0,4517,0.003984945760460483,Kras-Ctrl
+Tumor_11,Plasma/B/T co-enriched,563.0,4517,0.12464024795218065,Kras-Ctrl
+Tumor_11,Lymphatic endothelial enriched,71.0,4517,0.015718397166260792,Kras-Ctrl
+Tumor_11,Malignant 3 enriched,0.0,4517,0.0,Kras-Ctrl
+Tumor_11,Lung parenchyma,104.0,4517,0.023024131060438345,Kras-Ctrl
+Tumor_11,Pleura,0.0,4517,0.0,Kras-Ctrl
+Tumor_27,Malignant 2 (AT2-like) enriched,169.0,226,0.7477876106194691,Kras-Ctrl
+Tumor_27,Malignant 1 enriched,0.0,226,0.0,Kras-Ctrl
+Tumor_27,Malignant 1/2 co-enriched,0.0,226,0.0,Kras-Ctrl
+Tumor_27,Large airway,0.0,226,0.0,Kras-Ctrl
+Tumor_27,Plasma/B/T co-enriched,0.0,226,0.0,Kras-Ctrl
+Tumor_27,Lymphatic endothelial enriched,2.0,226,0.008849557522123894,Kras-Ctrl
+Tumor_27,Malignant 3 enriched,0.0,226,0.0,Kras-Ctrl
+Tumor_27,Lung parenchyma,55.0,226,0.24336283185840707,Kras-Ctrl
+Tumor_27,Pleura,0.0,226,0.0,Kras-Ctrl
+Tumor_28,Malignant 2 (AT2-like) enriched,25.0,43,0.5813953488372093,Kras-Ctrl
+Tumor_28,Malignant 1 enriched,0.0,43,0.0,Kras-Ctrl
+Tumor_28,Malignant 1/2 co-enriched,0.0,43,0.0,Kras-Ctrl
+Tumor_28,Large airway,0.0,43,0.0,Kras-Ctrl
+Tumor_28,Plasma/B/T co-enriched,0.0,43,0.0,Kras-Ctrl
+Tumor_28,Lymphatic endothelial enriched,2.0,43,0.046511627906976744,Kras-Ctrl
+Tumor_28,Malignant 3 enriched,0.0,43,0.0,Kras-Ctrl
+Tumor_28,Lung parenchyma,16.0,43,0.37209302325581395,Kras-Ctrl
+Tumor_28,Pleura,0.0,43,0.0,Kras-Ctrl
+Tumor_20,Malignant 2 (AT2-like) enriched,166.0,193,0.8601036269430051,Kras-Ctrl
+Tumor_20,Malignant 1 enriched,0.0,193,0.0,Kras-Ctrl
+Tumor_20,Malignant 1/2 co-enriched,0.0,193,0.0,Kras-Ctrl
+Tumor_20,Large airway,0.0,193,0.0,Kras-Ctrl
+Tumor_20,Plasma/B/T co-enriched,0.0,193,0.0,Kras-Ctrl
+Tumor_20,Lymphatic endothelial enriched,0.0,193,0.0,Kras-Ctrl
+Tumor_20,Malignant 3 enriched,0.0,193,0.0,Kras-Ctrl
+Tumor_20,Lung parenchyma,27.0,193,0.13989637305699482,Kras-Ctrl
+Tumor_20,Pleura,0.0,193,0.0,Kras-Ctrl
+Tumor_24,Malignant 2 (AT2-like) enriched,22.0,36,0.6111111111111112,Kras-Ctrl
+Tumor_24,Malignant 1 enriched,0.0,36,0.0,Kras-Ctrl
+Tumor_24,Malignant 1/2 co-enriched,0.0,36,0.0,Kras-Ctrl
+Tumor_24,Large airway,0.0,36,0.0,Kras-Ctrl
+Tumor_24,Plasma/B/T co-enriched,0.0,36,0.0,Kras-Ctrl
+Tumor_24,Lymphatic endothelial enriched,1.0,36,0.027777777777777776,Kras-Ctrl
+Tumor_24,Malignant 3 enriched,0.0,36,0.0,Kras-Ctrl
+Tumor_24,Lung parenchyma,13.0,36,0.3611111111111111,Kras-Ctrl
+Tumor_24,Pleura,0.0,36,0.0,Kras-Ctrl
+Tumor_22,Malignant 2 (AT2-like) enriched,118.0,139,0.8489208633093526,Kras-Ctrl
+Tumor_22,Malignant 1 enriched,0.0,139,0.0,Kras-Ctrl
+Tumor_22,Malignant 1/2 co-enriched,0.0,139,0.0,Kras-Ctrl
+Tumor_22,Large airway,0.0,139,0.0,Kras-Ctrl
+Tumor_22,Plasma/B/T co-enriched,11.0,139,0.07913669064748201,Kras-Ctrl
+Tumor_22,Lymphatic endothelial enriched,1.0,139,0.007194244604316547,Kras-Ctrl
+Tumor_22,Malignant 3 enriched,0.0,139,0.0,Kras-Ctrl
+Tumor_22,Lung parenchyma,9.0,139,0.06474820143884892,Kras-Ctrl
+Tumor_22,Pleura,0.0,139,0.0,Kras-Ctrl
+Tumor_16,Malignant 2 (AT2-like) enriched,1333.0,1418,0.9400564174894217,Kras-Ctrl
+Tumor_16,Malignant 1 enriched,0.0,1418,0.0,Kras-Ctrl
+Tumor_16,Malignant 1/2 co-enriched,0.0,1418,0.0,Kras-Ctrl
+Tumor_16,Large airway,0.0,1418,0.0,Kras-Ctrl
+Tumor_16,Plasma/B/T co-enriched,35.0,1418,0.02468265162200282,Kras-Ctrl
+Tumor_16,Lymphatic endothelial enriched,2.0,1418,0.0014104372355430183,Kras-Ctrl
+Tumor_16,Malignant 3 enriched,0.0,1418,0.0,Kras-Ctrl
+Tumor_16,Lung parenchyma,46.0,1418,0.03244005641748942,Kras-Ctrl
+Tumor_16,Pleura,2.0,1418,0.0014104372355430183,Kras-Ctrl
+Tumor_10,Malignant 2 (AT2-like) enriched,14.0,58,0.2413793103448276,Kras-Ctrl
+Tumor_10,Malignant 1 enriched,0.0,58,0.0,Kras-Ctrl
+Tumor_10,Malignant 1/2 co-enriched,0.0,58,0.0,Kras-Ctrl
+Tumor_10,Large airway,0.0,58,0.0,Kras-Ctrl
+Tumor_10,Plasma/B/T co-enriched,7.0,58,0.1206896551724138,Kras-Ctrl
+Tumor_10,Lymphatic endothelial enriched,11.0,58,0.1896551724137931,Kras-Ctrl
+Tumor_10,Malignant 3 enriched,0.0,58,0.0,Kras-Ctrl
+Tumor_10,Lung parenchyma,26.0,58,0.4482758620689655,Kras-Ctrl
+Tumor_10,Pleura,0.0,58,0.0,Kras-Ctrl
+Tumor_38,Malignant 2 (AT2-like) enriched,1.0,36,0.027777777777777776,Kras-Ctrl
+Tumor_38,Malignant 1 enriched,0.0,36,0.0,Kras-Ctrl
+Tumor_38,Malignant 1/2 co-enriched,0.0,36,0.0,Kras-Ctrl
+Tumor_38,Large airway,0.0,36,0.0,Kras-Ctrl
+Tumor_38,Plasma/B/T co-enriched,0.0,36,0.0,Kras-Ctrl
+Tumor_38,Lymphatic endothelial enriched,0.0,36,0.0,Kras-Ctrl
+Tumor_38,Malignant 3 enriched,0.0,36,0.0,Kras-Ctrl
+Tumor_38,Lung parenchyma,35.0,36,0.9722222222222222,Kras-Ctrl
+Tumor_38,Pleura,0.0,36,0.0,Kras-Ctrl
+Tumor_137,Malignant 2 (AT2-like) enriched,3899.0,3978,0.9801407742584213,Kras-Setd2KO
+Tumor_137,Malignant 1 enriched,0.0,3978,0.0,Kras-Setd2KO
+Tumor_137,Malignant 1/2 co-enriched,0.0,3978,0.0,Kras-Setd2KO
+Tumor_137,Large airway,0.0,3978,0.0,Kras-Setd2KO
+Tumor_137,Plasma/B/T co-enriched,33.0,3978,0.008295625942684766,Kras-Setd2KO
+Tumor_137,Lymphatic endothelial enriched,24.0,3978,0.006033182503770739,Kras-Setd2KO
+Tumor_137,Malignant 3 enriched,0.0,3978,0.0,Kras-Setd2KO
+Tumor_137,Lung parenchyma,22.0,3978,0.005530417295123178,Kras-Setd2KO
+Tumor_137,Pleura,0.0,3978,0.0,Kras-Setd2KO
+Tumor_136,Malignant 2 (AT2-like) enriched,2442.0,2526,0.9667458432304038,Kras-Setd2KO
+Tumor_136,Malignant 1 enriched,0.0,2526,0.0,Kras-Setd2KO
+Tumor_136,Malignant 1/2 co-enriched,0.0,2526,0.0,Kras-Setd2KO
+Tumor_136,Large airway,0.0,2526,0.0,Kras-Setd2KO
+Tumor_136,Plasma/B/T co-enriched,41.0,2526,0.01623119556611243,Kras-Setd2KO
+Tumor_136,Lymphatic endothelial enriched,20.0,2526,0.00791765637371338,Kras-Setd2KO
+Tumor_136,Malignant 3 enriched,0.0,2526,0.0,Kras-Setd2KO
+Tumor_136,Lung parenchyma,21.0,2526,0.00831353919239905,Kras-Setd2KO
+Tumor_136,Pleura,2.0,2526,0.000791765637371338,Kras-Setd2KO
+Tumor_142,Malignant 2 (AT2-like) enriched,10836.0,11881,0.9120444407036444,Kras-Setd2KO
+Tumor_142,Malignant 1 enriched,51.0,11881,0.004292567965659457,Kras-Setd2KO
+Tumor_142,Malignant 1/2 co-enriched,635.0,11881,0.05344667957242656,Kras-Setd2KO
+Tumor_142,Large airway,16.0,11881,0.0013466879892264961,Kras-Setd2KO
+Tumor_142,Plasma/B/T co-enriched,141.0,11881,0.011867687905058497,Kras-Setd2KO
+Tumor_142,Lymphatic endothelial enriched,137.0,11881,0.011531015907751872,Kras-Setd2KO
+Tumor_142,Malignant 3 enriched,0.0,11881,0.0,Kras-Setd2KO
+Tumor_142,Lung parenchyma,65.0,11881,0.00547091995623264,Kras-Setd2KO
+Tumor_142,Pleura,0.0,11881,0.0,Kras-Setd2KO
+Tumor_141,Malignant 2 (AT2-like) enriched,589.0,655,0.899236641221374,Kras-Setd2KO
+Tumor_141,Malignant 1 enriched,0.0,655,0.0,Kras-Setd2KO
+Tumor_141,Malignant 1/2 co-enriched,0.0,655,0.0,Kras-Setd2KO
+Tumor_141,Large airway,0.0,655,0.0,Kras-Setd2KO
+Tumor_141,Plasma/B/T co-enriched,19.0,655,0.02900763358778626,Kras-Setd2KO
+Tumor_141,Lymphatic endothelial enriched,6.0,655,0.00916030534351145,Kras-Setd2KO
+Tumor_141,Malignant 3 enriched,0.0,655,0.0,Kras-Setd2KO
+Tumor_141,Lung parenchyma,41.0,655,0.06259541984732825,Kras-Setd2KO
+Tumor_141,Pleura,0.0,655,0.0,Kras-Setd2KO
+Tumor_145,Malignant 2 (AT2-like) enriched,137.0,163,0.8404907975460123,Kras-Setd2KO
+Tumor_145,Malignant 1 enriched,0.0,163,0.0,Kras-Setd2KO
+Tumor_145,Malignant 1/2 co-enriched,0.0,163,0.0,Kras-Setd2KO
+Tumor_145,Large airway,0.0,163,0.0,Kras-Setd2KO
+Tumor_145,Plasma/B/T co-enriched,0.0,163,0.0,Kras-Setd2KO
+Tumor_145,Lymphatic endothelial enriched,21.0,163,0.12883435582822086,Kras-Setd2KO
+Tumor_145,Malignant 3 enriched,0.0,163,0.0,Kras-Setd2KO
+Tumor_145,Lung parenchyma,5.0,163,0.03067484662576687,Kras-Setd2KO
+Tumor_145,Pleura,0.0,163,0.0,Kras-Setd2KO
+Tumor_144,Malignant 2 (AT2-like) enriched,7122.0,7444,0.9567436861902203,Kras-Setd2KO
+Tumor_144,Malignant 1 enriched,0.0,7444,0.0,Kras-Setd2KO
+Tumor_144,Malignant 1/2 co-enriched,0.0,7444,0.0,Kras-Setd2KO
+Tumor_144,Large airway,0.0,7444,0.0,Kras-Setd2KO
+Tumor_144,Plasma/B/T co-enriched,223.0,7444,0.029957012358946804,Kras-Setd2KO
+Tumor_144,Lymphatic endothelial enriched,33.0,7444,0.004433100483610962,Kras-Setd2KO
+Tumor_144,Malignant 3 enriched,0.0,7444,0.0,Kras-Setd2KO
+Tumor_144,Lung parenchyma,66.0,7444,0.008866200967221924,Kras-Setd2KO
+Tumor_144,Pleura,0.0,7444,0.0,Kras-Setd2KO
+Tumor_138,Malignant 2 (AT2-like) enriched,3868.0,4060,0.9527093596059113,Kras-Setd2KO
+Tumor_138,Malignant 1 enriched,0.0,4060,0.0,Kras-Setd2KO
+Tumor_138,Malignant 1/2 co-enriched,37.0,4060,0.009113300492610837,Kras-Setd2KO
+Tumor_138,Large airway,1.0,4060,0.0002463054187192118,Kras-Setd2KO
+Tumor_138,Plasma/B/T co-enriched,58.0,4060,0.014285714285714285,Kras-Setd2KO
+Tumor_138,Lymphatic endothelial enriched,41.0,4060,0.010098522167487686,Kras-Setd2KO
+Tumor_138,Malignant 3 enriched,0.0,4060,0.0,Kras-Setd2KO
+Tumor_138,Lung parenchyma,55.0,4060,0.013546798029556651,Kras-Setd2KO
+Tumor_138,Pleura,0.0,4060,0.0,Kras-Setd2KO
+Tumor_139,Malignant 2 (AT2-like) enriched,2382.0,2548,0.934850863422292,Kras-Setd2KO
+Tumor_139,Malignant 1 enriched,0.0,2548,0.0,Kras-Setd2KO
+Tumor_139,Malignant 1/2 co-enriched,0.0,2548,0.0,Kras-Setd2KO
+Tumor_139,Large airway,0.0,2548,0.0,Kras-Setd2KO
+Tumor_139,Plasma/B/T co-enriched,30.0,2548,0.011773940345368918,Kras-Setd2KO
+Tumor_139,Lymphatic endothelial enriched,74.0,2548,0.029042386185243328,Kras-Setd2KO
+Tumor_139,Malignant 3 enriched,0.0,2548,0.0,Kras-Setd2KO
+Tumor_139,Lung parenchyma,62.0,2548,0.02433281004709576,Kras-Setd2KO
+Tumor_139,Pleura,0.0,2548,0.0,Kras-Setd2KO
+Tumor_140,Malignant 2 (AT2-like) enriched,66.0,152,0.4342105263157895,Kras-Setd2KO
+Tumor_140,Malignant 1 enriched,0.0,152,0.0,Kras-Setd2KO
+Tumor_140,Malignant 1/2 co-enriched,0.0,152,0.0,Kras-Setd2KO
+Tumor_140,Large airway,0.0,152,0.0,Kras-Setd2KO
+Tumor_140,Plasma/B/T co-enriched,0.0,152,0.0,Kras-Setd2KO
+Tumor_140,Lymphatic endothelial enriched,33.0,152,0.21710526315789475,Kras-Setd2KO
+Tumor_140,Malignant 3 enriched,0.0,152,0.0,Kras-Setd2KO
+Tumor_140,Lung parenchyma,53.0,152,0.34868421052631576,Kras-Setd2KO
+Tumor_140,Pleura,0.0,152,0.0,Kras-Setd2KO
+Tumor_143,Malignant 2 (AT2-like) enriched,209.0,263,0.7946768060836502,Kras-Setd2KO
+Tumor_143,Malignant 1 enriched,0.0,263,0.0,Kras-Setd2KO
+Tumor_143,Malignant 1/2 co-enriched,0.0,263,0.0,Kras-Setd2KO
+Tumor_143,Large airway,0.0,263,0.0,Kras-Setd2KO
+Tumor_143,Plasma/B/T co-enriched,23.0,263,0.08745247148288973,Kras-Setd2KO
+Tumor_143,Lymphatic endothelial enriched,1.0,263,0.0038022813688212928,Kras-Setd2KO
+Tumor_143,Malignant 3 enriched,0.0,263,0.0,Kras-Setd2KO
+Tumor_143,Lung parenchyma,30.0,263,0.11406844106463879,Kras-Setd2KO
+Tumor_143,Pleura,0.0,263,0.0,Kras-Setd2KO
+Tumor_154,Malignant 2 (AT2-like) enriched,3554.0,3866,0.9192964304190377,Kras-Setd2KO
+Tumor_154,Malignant 1 enriched,0.0,3866,0.0,Kras-Setd2KO
+Tumor_154,Malignant 1/2 co-enriched,0.0,3866,0.0,Kras-Setd2KO
+Tumor_154,Large airway,14.0,3866,0.0036213140196585617,Kras-Setd2KO
+Tumor_154,Plasma/B/T co-enriched,241.0,3866,0.06233833419555096,Kras-Setd2KO
+Tumor_154,Lymphatic endothelial enriched,44.0,3866,0.011381272633212623,Kras-Setd2KO
+Tumor_154,Malignant 3 enriched,0.0,3866,0.0,Kras-Setd2KO
+Tumor_154,Lung parenchyma,13.0,3866,0.003362648732540093,Kras-Setd2KO
+Tumor_154,Pleura,0.0,3866,0.0,Kras-Setd2KO
+Tumor_158,Malignant 2 (AT2-like) enriched,10258.0,10338,0.9922615592958018,Kras-Setd2KO
+Tumor_158,Malignant 1 enriched,0.0,10338,0.0,Kras-Setd2KO
+Tumor_158,Malignant 1/2 co-enriched,0.0,10338,0.0,Kras-Setd2KO
+Tumor_158,Large airway,0.0,10338,0.0,Kras-Setd2KO
+Tumor_158,Plasma/B/T co-enriched,31.0,10338,0.0029986457728767655,Kras-Setd2KO
+Tumor_158,Lymphatic endothelial enriched,25.0,10338,0.0024182627200619077,Kras-Setd2KO
+Tumor_158,Malignant 3 enriched,0.0,10338,0.0,Kras-Setd2KO
+Tumor_158,Lung parenchyma,24.0,10338,0.0023215322112594312,Kras-Setd2KO
+Tumor_158,Pleura,0.0,10338,0.0,Kras-Setd2KO
+Tumor_159,Malignant 2 (AT2-like) enriched,83.0,90,0.9222222222222223,Kras-Setd2KO
+Tumor_159,Malignant 1 enriched,0.0,90,0.0,Kras-Setd2KO
+Tumor_159,Malignant 1/2 co-enriched,0.0,90,0.0,Kras-Setd2KO
+Tumor_159,Large airway,0.0,90,0.0,Kras-Setd2KO
+Tumor_159,Plasma/B/T co-enriched,6.0,90,0.06666666666666667,Kras-Setd2KO
+Tumor_159,Lymphatic endothelial enriched,1.0,90,0.011111111111111112,Kras-Setd2KO
+Tumor_159,Malignant 3 enriched,0.0,90,0.0,Kras-Setd2KO
+Tumor_159,Lung parenchyma,0.0,90,0.0,Kras-Setd2KO
+Tumor_159,Pleura,0.0,90,0.0,Kras-Setd2KO
+Tumor_157,Malignant 2 (AT2-like) enriched,4186.0,4336,0.9654059040590406,Kras-Setd2KO
+Tumor_157,Malignant 1 enriched,0.0,4336,0.0,Kras-Setd2KO
+Tumor_157,Malignant 1/2 co-enriched,0.0,4336,0.0,Kras-Setd2KO
+Tumor_157,Large airway,0.0,4336,0.0,Kras-Setd2KO
+Tumor_157,Plasma/B/T co-enriched,57.0,4336,0.013145756457564576,Kras-Setd2KO
+Tumor_157,Lymphatic endothelial enriched,58.0,4336,0.013376383763837638,Kras-Setd2KO
+Tumor_157,Malignant 3 enriched,0.0,4336,0.0,Kras-Setd2KO
+Tumor_157,Lung parenchyma,35.0,4336,0.008071955719557196,Kras-Setd2KO
+Tumor_157,Pleura,0.0,4336,0.0,Kras-Setd2KO
+Tumor_150,Malignant 2 (AT2-like) enriched,40.0,57,0.7017543859649122,Kras-Setd2KO
+Tumor_150,Malignant 1 enriched,0.0,57,0.0,Kras-Setd2KO
+Tumor_150,Malignant 1/2 co-enriched,0.0,57,0.0,Kras-Setd2KO
+Tumor_150,Large airway,6.0,57,0.10526315789473684,Kras-Setd2KO
+Tumor_150,Plasma/B/T co-enriched,4.0,57,0.07017543859649122,Kras-Setd2KO
+Tumor_150,Lymphatic endothelial enriched,5.0,57,0.08771929824561403,Kras-Setd2KO
+Tumor_150,Malignant 3 enriched,0.0,57,0.0,Kras-Setd2KO
+Tumor_150,Lung parenchyma,2.0,57,0.03508771929824561,Kras-Setd2KO
+Tumor_150,Pleura,0.0,57,0.0,Kras-Setd2KO
+Tumor_156,Malignant 2 (AT2-like) enriched,845.0,911,0.9275521405049396,Kras-Setd2KO
+Tumor_156,Malignant 1 enriched,0.0,911,0.0,Kras-Setd2KO
+Tumor_156,Malignant 1/2 co-enriched,0.0,911,0.0,Kras-Setd2KO
+Tumor_156,Large airway,36.0,911,0.03951701427003293,Kras-Setd2KO
+Tumor_156,Plasma/B/T co-enriched,0.0,911,0.0,Kras-Setd2KO
+Tumor_156,Lymphatic endothelial enriched,14.0,911,0.015367727771679473,Kras-Setd2KO
+Tumor_156,Malignant 3 enriched,0.0,911,0.0,Kras-Setd2KO
+Tumor_156,Lung parenchyma,16.0,911,0.01756311745334797,Kras-Setd2KO
+Tumor_156,Pleura,0.0,911,0.0,Kras-Setd2KO
+Tumor_152,Malignant 2 (AT2-like) enriched,201.0,213,0.9436619718309859,Kras-Setd2KO
+Tumor_152,Malignant 1 enriched,0.0,213,0.0,Kras-Setd2KO
+Tumor_152,Malignant 1/2 co-enriched,0.0,213,0.0,Kras-Setd2KO
+Tumor_152,Large airway,0.0,213,0.0,Kras-Setd2KO
+Tumor_152,Plasma/B/T co-enriched,3.0,213,0.014084507042253521,Kras-Setd2KO
+Tumor_152,Lymphatic endothelial enriched,4.0,213,0.018779342723004695,Kras-Setd2KO
+Tumor_152,Malignant 3 enriched,0.0,213,0.0,Kras-Setd2KO
+Tumor_152,Lung parenchyma,5.0,213,0.023474178403755867,Kras-Setd2KO
+Tumor_152,Pleura,0.0,213,0.0,Kras-Setd2KO
+Tumor_149,Malignant 2 (AT2-like) enriched,39.0,50,0.78,Kras-Setd2KO
+Tumor_149,Malignant 1 enriched,0.0,50,0.0,Kras-Setd2KO
+Tumor_149,Malignant 1/2 co-enriched,0.0,50,0.0,Kras-Setd2KO
+Tumor_149,Large airway,0.0,50,0.0,Kras-Setd2KO
+Tumor_149,Plasma/B/T co-enriched,1.0,50,0.02,Kras-Setd2KO
+Tumor_149,Lymphatic endothelial enriched,8.0,50,0.16,Kras-Setd2KO
+Tumor_149,Malignant 3 enriched,0.0,50,0.0,Kras-Setd2KO
+Tumor_149,Lung parenchyma,2.0,50,0.04,Kras-Setd2KO
+Tumor_149,Pleura,0.0,50,0.0,Kras-Setd2KO
+Tumor_146,Malignant 2 (AT2-like) enriched,4220.0,4335,0.9734717416378316,Kras-Setd2KO
+Tumor_146,Malignant 1 enriched,0.0,4335,0.0,Kras-Setd2KO
+Tumor_146,Malignant 1/2 co-enriched,0.0,4335,0.0,Kras-Setd2KO
+Tumor_146,Large airway,0.0,4335,0.0,Kras-Setd2KO
+Tumor_146,Plasma/B/T co-enriched,14.0,4335,0.003229527104959631,Kras-Setd2KO
+Tumor_146,Lymphatic endothelial enriched,63.0,4335,0.01453287197231834,Kras-Setd2KO
+Tumor_146,Malignant 3 enriched,0.0,4335,0.0,Kras-Setd2KO
+Tumor_146,Lung parenchyma,38.0,4335,0.008765859284890426,Kras-Setd2KO
+Tumor_146,Pleura,0.0,4335,0.0,Kras-Setd2KO
+Tumor_155,Malignant 2 (AT2-like) enriched,32.0,55,0.5818181818181818,Kras-Setd2KO
+Tumor_155,Malignant 1 enriched,0.0,55,0.0,Kras-Setd2KO
+Tumor_155,Malignant 1/2 co-enriched,0.0,55,0.0,Kras-Setd2KO
+Tumor_155,Large airway,0.0,55,0.0,Kras-Setd2KO
+Tumor_155,Plasma/B/T co-enriched,0.0,55,0.0,Kras-Setd2KO
+Tumor_155,Lymphatic endothelial enriched,0.0,55,0.0,Kras-Setd2KO
+Tumor_155,Malignant 3 enriched,0.0,55,0.0,Kras-Setd2KO
+Tumor_155,Lung parenchyma,23.0,55,0.41818181818181815,Kras-Setd2KO
+Tumor_155,Pleura,0.0,55,0.0,Kras-Setd2KO
+Tumor_153,Malignant 2 (AT2-like) enriched,26.0,48,0.5416666666666666,Kras-Setd2KO
+Tumor_153,Malignant 1 enriched,0.0,48,0.0,Kras-Setd2KO
+Tumor_153,Malignant 1/2 co-enriched,0.0,48,0.0,Kras-Setd2KO
+Tumor_153,Large airway,0.0,48,0.0,Kras-Setd2KO
+Tumor_153,Plasma/B/T co-enriched,0.0,48,0.0,Kras-Setd2KO
+Tumor_153,Lymphatic endothelial enriched,3.0,48,0.0625,Kras-Setd2KO
+Tumor_153,Malignant 3 enriched,0.0,48,0.0,Kras-Setd2KO
+Tumor_153,Lung parenchyma,19.0,48,0.3958333333333333,Kras-Setd2KO
+Tumor_153,Pleura,0.0,48,0.0,Kras-Setd2KO
+Tumor_148,Malignant 2 (AT2-like) enriched,10.0,11,0.9090909090909091,Kras-Setd2KO
+Tumor_148,Malignant 1 enriched,0.0,11,0.0,Kras-Setd2KO
+Tumor_148,Malignant 1/2 co-enriched,0.0,11,0.0,Kras-Setd2KO
+Tumor_148,Large airway,1.0,11,0.09090909090909091,Kras-Setd2KO
+Tumor_148,Plasma/B/T co-enriched,0.0,11,0.0,Kras-Setd2KO
+Tumor_148,Lymphatic endothelial enriched,0.0,11,0.0,Kras-Setd2KO
+Tumor_148,Malignant 3 enriched,0.0,11,0.0,Kras-Setd2KO
+Tumor_148,Lung parenchyma,0.0,11,0.0,Kras-Setd2KO
+Tumor_148,Pleura,0.0,11,0.0,Kras-Setd2KO
+Tumor_147,Malignant 2 (AT2-like) enriched,81.0,85,0.9529411764705882,Kras-Setd2KO
+Tumor_147,Malignant 1 enriched,0.0,85,0.0,Kras-Setd2KO
+Tumor_147,Malignant 1/2 co-enriched,0.0,85,0.0,Kras-Setd2KO
+Tumor_147,Large airway,0.0,85,0.0,Kras-Setd2KO
+Tumor_147,Plasma/B/T co-enriched,1.0,85,0.011764705882352941,Kras-Setd2KO
+Tumor_147,Lymphatic endothelial enriched,3.0,85,0.03529411764705882,Kras-Setd2KO
+Tumor_147,Malignant 3 enriched,0.0,85,0.0,Kras-Setd2KO
+Tumor_147,Lung parenchyma,0.0,85,0.0,Kras-Setd2KO
+Tumor_147,Pleura,0.0,85,0.0,Kras-Setd2KO
+Tumor_151,Malignant 2 (AT2-like) enriched,21.0,23,0.9130434782608695,Kras-Setd2KO
+Tumor_151,Malignant 1 enriched,0.0,23,0.0,Kras-Setd2KO
+Tumor_151,Malignant 1/2 co-enriched,0.0,23,0.0,Kras-Setd2KO
+Tumor_151,Large airway,0.0,23,0.0,Kras-Setd2KO
+Tumor_151,Plasma/B/T co-enriched,0.0,23,0.0,Kras-Setd2KO
+Tumor_151,Lymphatic endothelial enriched,0.0,23,0.0,Kras-Setd2KO
+Tumor_151,Malignant 3 enriched,0.0,23,0.0,Kras-Setd2KO
+Tumor_151,Lung parenchyma,2.0,23,0.08695652173913043,Kras-Setd2KO
+Tumor_151,Pleura,0.0,23,0.0,Kras-Setd2KO
+Tumor_72,Malignant 2 (AT2-like) enriched,295.0,1153,0.25585429314830876,Kras-H3K36M
+Tumor_72,Malignant 1 enriched,0.0,1153,0.0,Kras-H3K36M
+Tumor_72,Malignant 1/2 co-enriched,0.0,1153,0.0,Kras-H3K36M
+Tumor_72,Large airway,0.0,1153,0.0,Kras-H3K36M
+Tumor_72,Plasma/B/T co-enriched,769.0,1153,0.6669557675628794,Kras-H3K36M
+Tumor_72,Lymphatic endothelial enriched,88.0,1153,0.07632263660017347,Kras-H3K36M
+Tumor_72,Malignant 3 enriched,0.0,1153,0.0,Kras-H3K36M
+Tumor_72,Lung parenchyma,1.0,1153,0.0008673026886383347,Kras-H3K36M
+Tumor_72,Pleura,0.0,1153,0.0,Kras-H3K36M
+Tumor_82,Malignant 2 (AT2-like) enriched,0.0,159,0.0,Kras-H3K36M
+Tumor_82,Malignant 1 enriched,0.0,159,0.0,Kras-H3K36M
+Tumor_82,Malignant 1/2 co-enriched,0.0,159,0.0,Kras-H3K36M
+Tumor_82,Large airway,0.0,159,0.0,Kras-H3K36M
+Tumor_82,Plasma/B/T co-enriched,144.0,159,0.9056603773584906,Kras-H3K36M
+Tumor_82,Lymphatic endothelial enriched,14.0,159,0.0880503144654088,Kras-H3K36M
+Tumor_82,Malignant 3 enriched,0.0,159,0.0,Kras-H3K36M
+Tumor_82,Lung parenchyma,1.0,159,0.006289308176100629,Kras-H3K36M
+Tumor_82,Pleura,0.0,159,0.0,Kras-H3K36M
+Tumor_87,Malignant 2 (AT2-like) enriched,154.0,515,0.29902912621359223,Kras-H3K36M
+Tumor_87,Malignant 1 enriched,0.0,515,0.0,Kras-H3K36M
+Tumor_87,Malignant 1/2 co-enriched,0.0,515,0.0,Kras-H3K36M
+Tumor_87,Large airway,0.0,515,0.0,Kras-H3K36M
+Tumor_87,Plasma/B/T co-enriched,315.0,515,0.6116504854368932,Kras-H3K36M
+Tumor_87,Lymphatic endothelial enriched,20.0,515,0.038834951456310676,Kras-H3K36M
+Tumor_87,Malignant 3 enriched,0.0,515,0.0,Kras-H3K36M
+Tumor_87,Lung parenchyma,26.0,515,0.05048543689320388,Kras-H3K36M
+Tumor_87,Pleura,0.0,515,0.0,Kras-H3K36M
+Tumor_88,Malignant 2 (AT2-like) enriched,19.0,365,0.052054794520547946,Kras-H3K36M
+Tumor_88,Malignant 1 enriched,0.0,365,0.0,Kras-H3K36M
+Tumor_88,Malignant 1/2 co-enriched,0.0,365,0.0,Kras-H3K36M
+Tumor_88,Large airway,0.0,365,0.0,Kras-H3K36M
+Tumor_88,Plasma/B/T co-enriched,340.0,365,0.9315068493150684,Kras-H3K36M
+Tumor_88,Lymphatic endothelial enriched,5.0,365,0.0136986301369863,Kras-H3K36M
+Tumor_88,Malignant 3 enriched,0.0,365,0.0,Kras-H3K36M
+Tumor_88,Lung parenchyma,1.0,365,0.0027397260273972603,Kras-H3K36M
+Tumor_88,Pleura,0.0,365,0.0,Kras-H3K36M
+Tumor_65,Malignant 2 (AT2-like) enriched,25.0,44,0.5681818181818182,Kras-H3K36M
+Tumor_65,Malignant 1 enriched,0.0,44,0.0,Kras-H3K36M
+Tumor_65,Malignant 1/2 co-enriched,0.0,44,0.0,Kras-H3K36M
+Tumor_65,Large airway,0.0,44,0.0,Kras-H3K36M
+Tumor_65,Plasma/B/T co-enriched,0.0,44,0.0,Kras-H3K36M
+Tumor_65,Lymphatic endothelial enriched,0.0,44,0.0,Kras-H3K36M
+Tumor_65,Malignant 3 enriched,0.0,44,0.0,Kras-H3K36M
+Tumor_65,Lung parenchyma,19.0,44,0.4318181818181818,Kras-H3K36M
+Tumor_65,Pleura,0.0,44,0.0,Kras-H3K36M
+Tumor_61,Malignant 2 (AT2-like) enriched,117.0,539,0.21706864564007422,Kras-H3K36M
+Tumor_61,Malignant 1 enriched,0.0,539,0.0,Kras-H3K36M
+Tumor_61,Malignant 1/2 co-enriched,0.0,539,0.0,Kras-H3K36M
+Tumor_61,Large airway,0.0,539,0.0,Kras-H3K36M
+Tumor_61,Plasma/B/T co-enriched,385.0,539,0.7142857142857143,Kras-H3K36M
+Tumor_61,Lymphatic endothelial enriched,21.0,539,0.03896103896103896,Kras-H3K36M
+Tumor_61,Malignant 3 enriched,0.0,539,0.0,Kras-H3K36M
+Tumor_61,Lung parenchyma,16.0,539,0.029684601113172542,Kras-H3K36M
+Tumor_61,Pleura,0.0,539,0.0,Kras-H3K36M
+Tumor_69,Malignant 2 (AT2-like) enriched,0.0,48,0.0,Kras-H3K36M
+Tumor_69,Malignant 1 enriched,0.0,48,0.0,Kras-H3K36M
+Tumor_69,Malignant 1/2 co-enriched,0.0,48,0.0,Kras-H3K36M
+Tumor_69,Large airway,0.0,48,0.0,Kras-H3K36M
+Tumor_69,Plasma/B/T co-enriched,44.0,48,0.9166666666666666,Kras-H3K36M
+Tumor_69,Lymphatic endothelial enriched,2.0,48,0.041666666666666664,Kras-H3K36M
+Tumor_69,Malignant 3 enriched,0.0,48,0.0,Kras-H3K36M
+Tumor_69,Lung parenchyma,2.0,48,0.041666666666666664,Kras-H3K36M
+Tumor_69,Pleura,0.0,48,0.0,Kras-H3K36M
+Tumor_66,Malignant 2 (AT2-like) enriched,90.0,141,0.6382978723404256,Kras-H3K36M
+Tumor_66,Malignant 1 enriched,0.0,141,0.0,Kras-H3K36M
+Tumor_66,Malignant 1/2 co-enriched,0.0,141,0.0,Kras-H3K36M
+Tumor_66,Large airway,0.0,141,0.0,Kras-H3K36M
+Tumor_66,Plasma/B/T co-enriched,21.0,141,0.14893617021276595,Kras-H3K36M
+Tumor_66,Lymphatic endothelial enriched,17.0,141,0.12056737588652482,Kras-H3K36M
+Tumor_66,Malignant 3 enriched,0.0,141,0.0,Kras-H3K36M
+Tumor_66,Lung parenchyma,13.0,141,0.09219858156028368,Kras-H3K36M
+Tumor_66,Pleura,0.0,141,0.0,Kras-H3K36M
+Tumor_58,Malignant 2 (AT2-like) enriched,123.0,200,0.615,Kras-H3K36M
+Tumor_58,Malignant 1 enriched,0.0,200,0.0,Kras-H3K36M
+Tumor_58,Malignant 1/2 co-enriched,0.0,200,0.0,Kras-H3K36M
+Tumor_58,Large airway,0.0,200,0.0,Kras-H3K36M
+Tumor_58,Plasma/B/T co-enriched,62.0,200,0.31,Kras-H3K36M
+Tumor_58,Lymphatic endothelial enriched,2.0,200,0.01,Kras-H3K36M
+Tumor_58,Malignant 3 enriched,0.0,200,0.0,Kras-H3K36M
+Tumor_58,Lung parenchyma,13.0,200,0.065,Kras-H3K36M
+Tumor_58,Pleura,0.0,200,0.0,Kras-H3K36M
+Tumor_59,Malignant 2 (AT2-like) enriched,23.0,179,0.12849162011173185,Kras-H3K36M
+Tumor_59,Malignant 1 enriched,0.0,179,0.0,Kras-H3K36M
+Tumor_59,Malignant 1/2 co-enriched,0.0,179,0.0,Kras-H3K36M
+Tumor_59,Large airway,0.0,179,0.0,Kras-H3K36M
+Tumor_59,Plasma/B/T co-enriched,135.0,179,0.7541899441340782,Kras-H3K36M
+Tumor_59,Lymphatic endothelial enriched,8.0,179,0.0446927374301676,Kras-H3K36M
+Tumor_59,Malignant 3 enriched,0.0,179,0.0,Kras-H3K36M
+Tumor_59,Lung parenchyma,13.0,179,0.07262569832402235,Kras-H3K36M
+Tumor_59,Pleura,0.0,179,0.0,Kras-H3K36M
+Tumor_97,Malignant 2 (AT2-like) enriched,0.0,40,0.0,Kras-H3K36M
+Tumor_97,Malignant 1 enriched,0.0,40,0.0,Kras-H3K36M
+Tumor_97,Malignant 1/2 co-enriched,0.0,40,0.0,Kras-H3K36M
+Tumor_97,Large airway,0.0,40,0.0,Kras-H3K36M
+Tumor_97,Plasma/B/T co-enriched,0.0,40,0.0,Kras-H3K36M
+Tumor_97,Lymphatic endothelial enriched,0.0,40,0.0,Kras-H3K36M
+Tumor_97,Malignant 3 enriched,0.0,40,0.0,Kras-H3K36M
+Tumor_97,Lung parenchyma,40.0,40,1.0,Kras-H3K36M
+Tumor_97,Pleura,0.0,40,0.0,Kras-H3K36M
+Tumor_60,Malignant 2 (AT2-like) enriched,206.0,1928,0.10684647302904564,Kras-H3K36M
+Tumor_60,Malignant 1 enriched,0.0,1928,0.0,Kras-H3K36M
+Tumor_60,Malignant 1/2 co-enriched,0.0,1928,0.0,Kras-H3K36M
+Tumor_60,Large airway,0.0,1928,0.0,Kras-H3K36M
+Tumor_60,Plasma/B/T co-enriched,1674.0,1928,0.8682572614107884,Kras-H3K36M
+Tumor_60,Lymphatic endothelial enriched,38.0,1928,0.01970954356846473,Kras-H3K36M
+Tumor_60,Malignant 3 enriched,0.0,1928,0.0,Kras-H3K36M
+Tumor_60,Lung parenchyma,5.0,1928,0.0025933609958506223,Kras-H3K36M
+Tumor_60,Pleura,5.0,1928,0.0025933609958506223,Kras-H3K36M
+Tumor_62,Malignant 2 (AT2-like) enriched,14.0,28,0.5,Kras-H3K36M
+Tumor_62,Malignant 1 enriched,0.0,28,0.0,Kras-H3K36M
+Tumor_62,Malignant 1/2 co-enriched,0.0,28,0.0,Kras-H3K36M
+Tumor_62,Large airway,0.0,28,0.0,Kras-H3K36M
+Tumor_62,Plasma/B/T co-enriched,9.0,28,0.32142857142857145,Kras-H3K36M
+Tumor_62,Lymphatic endothelial enriched,0.0,28,0.0,Kras-H3K36M
+Tumor_62,Malignant 3 enriched,0.0,28,0.0,Kras-H3K36M
+Tumor_62,Lung parenchyma,5.0,28,0.17857142857142858,Kras-H3K36M
+Tumor_62,Pleura,0.0,28,0.0,Kras-H3K36M
+Tumor_70,Malignant 2 (AT2-like) enriched,43.0,439,0.0979498861047836,Kras-H3K36M
+Tumor_70,Malignant 1 enriched,0.0,439,0.0,Kras-H3K36M
+Tumor_70,Malignant 1/2 co-enriched,0.0,439,0.0,Kras-H3K36M
+Tumor_70,Large airway,0.0,439,0.0,Kras-H3K36M
+Tumor_70,Plasma/B/T co-enriched,348.0,439,0.7927107061503417,Kras-H3K36M
+Tumor_70,Lymphatic endothelial enriched,35.0,439,0.07972665148063782,Kras-H3K36M
+Tumor_70,Malignant 3 enriched,0.0,439,0.0,Kras-H3K36M
+Tumor_70,Lung parenchyma,13.0,439,0.029612756264236904,Kras-H3K36M
+Tumor_70,Pleura,0.0,439,0.0,Kras-H3K36M
+Tumor_78,Malignant 2 (AT2-like) enriched,80.0,277,0.2888086642599278,Kras-H3K36M
+Tumor_78,Malignant 1 enriched,0.0,277,0.0,Kras-H3K36M
+Tumor_78,Malignant 1/2 co-enriched,0.0,277,0.0,Kras-H3K36M
+Tumor_78,Large airway,0.0,277,0.0,Kras-H3K36M
+Tumor_78,Plasma/B/T co-enriched,190.0,277,0.6859205776173285,Kras-H3K36M
+Tumor_78,Lymphatic endothelial enriched,2.0,277,0.007220216606498195,Kras-H3K36M
+Tumor_78,Malignant 3 enriched,0.0,277,0.0,Kras-H3K36M
+Tumor_78,Lung parenchyma,5.0,277,0.018050541516245487,Kras-H3K36M
+Tumor_78,Pleura,0.0,277,0.0,Kras-H3K36M
+Tumor_79,Malignant 2 (AT2-like) enriched,15.0,101,0.1485148514851485,Kras-H3K36M
+Tumor_79,Malignant 1 enriched,0.0,101,0.0,Kras-H3K36M
+Tumor_79,Malignant 1/2 co-enriched,0.0,101,0.0,Kras-H3K36M
+Tumor_79,Large airway,0.0,101,0.0,Kras-H3K36M
+Tumor_79,Plasma/B/T co-enriched,84.0,101,0.8316831683168316,Kras-H3K36M
+Tumor_79,Lymphatic endothelial enriched,2.0,101,0.019801980198019802,Kras-H3K36M
+Tumor_79,Malignant 3 enriched,0.0,101,0.0,Kras-H3K36M
+Tumor_79,Lung parenchyma,0.0,101,0.0,Kras-H3K36M
+Tumor_79,Pleura,0.0,101,0.0,Kras-H3K36M
+Tumor_93,Malignant 2 (AT2-like) enriched,30.0,158,0.189873417721519,Kras-H3K36M
+Tumor_93,Malignant 1 enriched,0.0,158,0.0,Kras-H3K36M
+Tumor_93,Malignant 1/2 co-enriched,0.0,158,0.0,Kras-H3K36M
+Tumor_93,Large airway,0.0,158,0.0,Kras-H3K36M
+Tumor_93,Plasma/B/T co-enriched,95.0,158,0.6012658227848101,Kras-H3K36M
+Tumor_93,Lymphatic endothelial enriched,33.0,158,0.2088607594936709,Kras-H3K36M
+Tumor_93,Malignant 3 enriched,0.0,158,0.0,Kras-H3K36M
+Tumor_93,Lung parenchyma,0.0,158,0.0,Kras-H3K36M
+Tumor_93,Pleura,0.0,158,0.0,Kras-H3K36M
+Tumor_100,Malignant 2 (AT2-like) enriched,112.0,812,0.13793103448275862,Kras-H3K36M
+Tumor_100,Malignant 1 enriched,0.0,812,0.0,Kras-H3K36M
+Tumor_100,Malignant 1/2 co-enriched,0.0,812,0.0,Kras-H3K36M
+Tumor_100,Large airway,0.0,812,0.0,Kras-H3K36M
+Tumor_100,Plasma/B/T co-enriched,692.0,812,0.8522167487684729,Kras-H3K36M
+Tumor_100,Lymphatic endothelial enriched,3.0,812,0.003694581280788177,Kras-H3K36M
+Tumor_100,Malignant 3 enriched,0.0,812,0.0,Kras-H3K36M
+Tumor_100,Lung parenchyma,5.0,812,0.006157635467980296,Kras-H3K36M
+Tumor_100,Pleura,0.0,812,0.0,Kras-H3K36M
+Tumor_101,Malignant 2 (AT2-like) enriched,82.0,142,0.5774647887323944,Kras-H3K36M
+Tumor_101,Malignant 1 enriched,0.0,142,0.0,Kras-H3K36M
+Tumor_101,Malignant 1/2 co-enriched,0.0,142,0.0,Kras-H3K36M
+Tumor_101,Large airway,0.0,142,0.0,Kras-H3K36M
+Tumor_101,Plasma/B/T co-enriched,50.0,142,0.352112676056338,Kras-H3K36M
+Tumor_101,Lymphatic endothelial enriched,7.0,142,0.04929577464788732,Kras-H3K36M
+Tumor_101,Malignant 3 enriched,0.0,142,0.0,Kras-H3K36M
+Tumor_101,Lung parenchyma,3.0,142,0.02112676056338028,Kras-H3K36M
+Tumor_101,Pleura,0.0,142,0.0,Kras-H3K36M
+Tumor_99,Malignant 2 (AT2-like) enriched,45.0,453,0.09933774834437085,Kras-H3K36M
+Tumor_99,Malignant 1 enriched,0.0,453,0.0,Kras-H3K36M
+Tumor_99,Malignant 1/2 co-enriched,0.0,453,0.0,Kras-H3K36M
+Tumor_99,Large airway,0.0,453,0.0,Kras-H3K36M
+Tumor_99,Plasma/B/T co-enriched,404.0,453,0.891832229580574,Kras-H3K36M
+Tumor_99,Lymphatic endothelial enriched,4.0,453,0.008830022075055188,Kras-H3K36M
+Tumor_99,Malignant 3 enriched,0.0,453,0.0,Kras-H3K36M
+Tumor_99,Lung parenchyma,0.0,453,0.0,Kras-H3K36M
+Tumor_99,Pleura,0.0,453,0.0,Kras-H3K36M
+Tumor_98,Malignant 2 (AT2-like) enriched,164.0,645,0.25426356589147286,Kras-H3K36M
+Tumor_98,Malignant 1 enriched,0.0,645,0.0,Kras-H3K36M
+Tumor_98,Malignant 1/2 co-enriched,0.0,645,0.0,Kras-H3K36M
+Tumor_98,Large airway,0.0,645,0.0,Kras-H3K36M
+Tumor_98,Plasma/B/T co-enriched,458.0,645,0.710077519379845,Kras-H3K36M
+Tumor_98,Lymphatic endothelial enriched,7.0,645,0.010852713178294573,Kras-H3K36M
+Tumor_98,Malignant 3 enriched,0.0,645,0.0,Kras-H3K36M
+Tumor_98,Lung parenchyma,16.0,645,0.024806201550387597,Kras-H3K36M
+Tumor_98,Pleura,0.0,645,0.0,Kras-H3K36M
+Tumor_95,Malignant 2 (AT2-like) enriched,107.0,902,0.11862527716186252,Kras-H3K36M
+Tumor_95,Malignant 1 enriched,0.0,902,0.0,Kras-H3K36M
+Tumor_95,Malignant 1/2 co-enriched,0.0,902,0.0,Kras-H3K36M
+Tumor_95,Large airway,0.0,902,0.0,Kras-H3K36M
+Tumor_95,Plasma/B/T co-enriched,764.0,902,0.8470066518847007,Kras-H3K36M
+Tumor_95,Lymphatic endothelial enriched,29.0,902,0.03215077605321508,Kras-H3K36M
+Tumor_95,Malignant 3 enriched,0.0,902,0.0,Kras-H3K36M
+Tumor_95,Lung parenchyma,2.0,902,0.0022172949002217295,Kras-H3K36M
+Tumor_95,Pleura,0.0,902,0.0,Kras-H3K36M
+Tumor_96,Malignant 2 (AT2-like) enriched,2.0,47,0.0425531914893617,Kras-H3K36M
+Tumor_96,Malignant 1 enriched,0.0,47,0.0,Kras-H3K36M
+Tumor_96,Malignant 1/2 co-enriched,0.0,47,0.0,Kras-H3K36M
+Tumor_96,Large airway,0.0,47,0.0,Kras-H3K36M
+Tumor_96,Plasma/B/T co-enriched,25.0,47,0.5319148936170213,Kras-H3K36M
+Tumor_96,Lymphatic endothelial enriched,6.0,47,0.1276595744680851,Kras-H3K36M
+Tumor_96,Malignant 3 enriched,0.0,47,0.0,Kras-H3K36M
+Tumor_96,Lung parenchyma,14.0,47,0.2978723404255319,Kras-H3K36M
+Tumor_96,Pleura,0.0,47,0.0,Kras-H3K36M
+Tumor_84,Malignant 2 (AT2-like) enriched,241.0,1196,0.20150501672240803,Kras-H3K36M
+Tumor_84,Malignant 1 enriched,0.0,1196,0.0,Kras-H3K36M
+Tumor_84,Malignant 1/2 co-enriched,0.0,1196,0.0,Kras-H3K36M
+Tumor_84,Large airway,0.0,1196,0.0,Kras-H3K36M
+Tumor_84,Plasma/B/T co-enriched,919.0,1196,0.7683946488294314,Kras-H3K36M
+Tumor_84,Lymphatic endothelial enriched,28.0,1196,0.023411371237458192,Kras-H3K36M
+Tumor_84,Malignant 3 enriched,0.0,1196,0.0,Kras-H3K36M
+Tumor_84,Lung parenchyma,8.0,1196,0.006688963210702341,Kras-H3K36M
+Tumor_84,Pleura,0.0,1196,0.0,Kras-H3K36M
+Tumor_85,Malignant 2 (AT2-like) enriched,28.0,314,0.08917197452229299,Kras-H3K36M
+Tumor_85,Malignant 1 enriched,0.0,314,0.0,Kras-H3K36M
+Tumor_85,Malignant 1/2 co-enriched,0.0,314,0.0,Kras-H3K36M
+Tumor_85,Large airway,0.0,314,0.0,Kras-H3K36M
+Tumor_85,Plasma/B/T co-enriched,261.0,314,0.8312101910828026,Kras-H3K36M
+Tumor_85,Lymphatic endothelial enriched,8.0,314,0.025477707006369428,Kras-H3K36M
+Tumor_85,Malignant 3 enriched,0.0,314,0.0,Kras-H3K36M
+Tumor_85,Lung parenchyma,17.0,314,0.054140127388535034,Kras-H3K36M
+Tumor_85,Pleura,0.0,314,0.0,Kras-H3K36M
+Tumor_86,Malignant 2 (AT2-like) enriched,0.0,53,0.0,Kras-H3K36M
+Tumor_86,Malignant 1 enriched,0.0,53,0.0,Kras-H3K36M
+Tumor_86,Malignant 1/2 co-enriched,0.0,53,0.0,Kras-H3K36M
+Tumor_86,Large airway,0.0,53,0.0,Kras-H3K36M
+Tumor_86,Plasma/B/T co-enriched,53.0,53,1.0,Kras-H3K36M
+Tumor_86,Lymphatic endothelial enriched,0.0,53,0.0,Kras-H3K36M
+Tumor_86,Malignant 3 enriched,0.0,53,0.0,Kras-H3K36M
+Tumor_86,Lung parenchyma,0.0,53,0.0,Kras-H3K36M
+Tumor_86,Pleura,0.0,53,0.0,Kras-H3K36M
+Tumor_77,Malignant 2 (AT2-like) enriched,76.0,445,0.1707865168539326,Kras-H3K36M
+Tumor_77,Malignant 1 enriched,0.0,445,0.0,Kras-H3K36M
+Tumor_77,Malignant 1/2 co-enriched,0.0,445,0.0,Kras-H3K36M
+Tumor_77,Large airway,0.0,445,0.0,Kras-H3K36M
+Tumor_77,Plasma/B/T co-enriched,354.0,445,0.7955056179775281,Kras-H3K36M
+Tumor_77,Lymphatic endothelial enriched,13.0,445,0.029213483146067417,Kras-H3K36M
+Tumor_77,Malignant 3 enriched,0.0,445,0.0,Kras-H3K36M
+Tumor_77,Lung parenchyma,2.0,445,0.0044943820224719105,Kras-H3K36M
+Tumor_77,Pleura,0.0,445,0.0,Kras-H3K36M
+Tumor_92,Malignant 2 (AT2-like) enriched,14.0,61,0.22950819672131148,Kras-H3K36M
+Tumor_92,Malignant 1 enriched,0.0,61,0.0,Kras-H3K36M
+Tumor_92,Malignant 1/2 co-enriched,0.0,61,0.0,Kras-H3K36M
+Tumor_92,Large airway,0.0,61,0.0,Kras-H3K36M
+Tumor_92,Plasma/B/T co-enriched,47.0,61,0.7704918032786885,Kras-H3K36M
+Tumor_92,Lymphatic endothelial enriched,0.0,61,0.0,Kras-H3K36M
+Tumor_92,Malignant 3 enriched,0.0,61,0.0,Kras-H3K36M
+Tumor_92,Lung parenchyma,0.0,61,0.0,Kras-H3K36M
+Tumor_92,Pleura,0.0,61,0.0,Kras-H3K36M
+Tumor_83,Malignant 2 (AT2-like) enriched,48.0,99,0.48484848484848486,Kras-H3K36M
+Tumor_83,Malignant 1 enriched,0.0,99,0.0,Kras-H3K36M
+Tumor_83,Malignant 1/2 co-enriched,0.0,99,0.0,Kras-H3K36M
+Tumor_83,Large airway,0.0,99,0.0,Kras-H3K36M
+Tumor_83,Plasma/B/T co-enriched,41.0,99,0.41414141414141414,Kras-H3K36M
+Tumor_83,Lymphatic endothelial enriched,10.0,99,0.10101010101010101,Kras-H3K36M
+Tumor_83,Malignant 3 enriched,0.0,99,0.0,Kras-H3K36M
+Tumor_83,Lung parenchyma,0.0,99,0.0,Kras-H3K36M
+Tumor_83,Pleura,0.0,99,0.0,Kras-H3K36M
+Tumor_81,Malignant 2 (AT2-like) enriched,60.0,126,0.47619047619047616,Kras-H3K36M
+Tumor_81,Malignant 1 enriched,0.0,126,0.0,Kras-H3K36M
+Tumor_81,Malignant 1/2 co-enriched,0.0,126,0.0,Kras-H3K36M
+Tumor_81,Large airway,0.0,126,0.0,Kras-H3K36M
+Tumor_81,Plasma/B/T co-enriched,56.0,126,0.4444444444444444,Kras-H3K36M
+Tumor_81,Lymphatic endothelial enriched,10.0,126,0.07936507936507936,Kras-H3K36M
+Tumor_81,Malignant 3 enriched,0.0,126,0.0,Kras-H3K36M
+Tumor_81,Lung parenchyma,0.0,126,0.0,Kras-H3K36M
+Tumor_81,Pleura,0.0,126,0.0,Kras-H3K36M
+Tumor_71,Malignant 2 (AT2-like) enriched,130.0,438,0.2968036529680365,Kras-H3K36M
+Tumor_71,Malignant 1 enriched,0.0,438,0.0,Kras-H3K36M
+Tumor_71,Malignant 1/2 co-enriched,0.0,438,0.0,Kras-H3K36M
+Tumor_71,Large airway,0.0,438,0.0,Kras-H3K36M
+Tumor_71,Plasma/B/T co-enriched,299.0,438,0.682648401826484,Kras-H3K36M
+Tumor_71,Lymphatic endothelial enriched,3.0,438,0.00684931506849315,Kras-H3K36M
+Tumor_71,Malignant 3 enriched,0.0,438,0.0,Kras-H3K36M
+Tumor_71,Lung parenchyma,6.0,438,0.0136986301369863,Kras-H3K36M
+Tumor_71,Pleura,0.0,438,0.0,Kras-H3K36M
+Tumor_67,Malignant 2 (AT2-like) enriched,37.0,568,0.06514084507042253,Kras-H3K36M
+Tumor_67,Malignant 1 enriched,0.0,568,0.0,Kras-H3K36M
+Tumor_67,Malignant 1/2 co-enriched,0.0,568,0.0,Kras-H3K36M
+Tumor_67,Large airway,0.0,568,0.0,Kras-H3K36M
+Tumor_67,Plasma/B/T co-enriched,503.0,568,0.8855633802816901,Kras-H3K36M
+Tumor_67,Lymphatic endothelial enriched,22.0,568,0.03873239436619718,Kras-H3K36M
+Tumor_67,Malignant 3 enriched,0.0,568,0.0,Kras-H3K36M
+Tumor_67,Lung parenchyma,6.0,568,0.01056338028169014,Kras-H3K36M
+Tumor_67,Pleura,0.0,568,0.0,Kras-H3K36M
+Tumor_74,Malignant 2 (AT2-like) enriched,18.0,195,0.09230769230769231,Kras-H3K36M
+Tumor_74,Malignant 1 enriched,0.0,195,0.0,Kras-H3K36M
+Tumor_74,Malignant 1/2 co-enriched,0.0,195,0.0,Kras-H3K36M
+Tumor_74,Large airway,0.0,195,0.0,Kras-H3K36M
+Tumor_74,Plasma/B/T co-enriched,166.0,195,0.8512820512820513,Kras-H3K36M
+Tumor_74,Lymphatic endothelial enriched,11.0,195,0.05641025641025641,Kras-H3K36M
+Tumor_74,Malignant 3 enriched,0.0,195,0.0,Kras-H3K36M
+Tumor_74,Lung parenchyma,0.0,195,0.0,Kras-H3K36M
+Tumor_74,Pleura,0.0,195,0.0,Kras-H3K36M
+Tumor_73,Malignant 2 (AT2-like) enriched,44.0,64,0.6875,Kras-H3K36M
+Tumor_73,Malignant 1 enriched,0.0,64,0.0,Kras-H3K36M
+Tumor_73,Malignant 1/2 co-enriched,0.0,64,0.0,Kras-H3K36M
+Tumor_73,Large airway,0.0,64,0.0,Kras-H3K36M
+Tumor_73,Plasma/B/T co-enriched,2.0,64,0.03125,Kras-H3K36M
+Tumor_73,Lymphatic endothelial enriched,4.0,64,0.0625,Kras-H3K36M
+Tumor_73,Malignant 3 enriched,0.0,64,0.0,Kras-H3K36M
+Tumor_73,Lung parenchyma,14.0,64,0.21875,Kras-H3K36M
+Tumor_73,Pleura,0.0,64,0.0,Kras-H3K36M
+Tumor_76,Malignant 2 (AT2-like) enriched,165.0,315,0.5238095238095238,Kras-H3K36M
+Tumor_76,Malignant 1 enriched,0.0,315,0.0,Kras-H3K36M
+Tumor_76,Malignant 1/2 co-enriched,0.0,315,0.0,Kras-H3K36M
+Tumor_76,Large airway,35.0,315,0.1111111111111111,Kras-H3K36M
+Tumor_76,Plasma/B/T co-enriched,86.0,315,0.273015873015873,Kras-H3K36M
+Tumor_76,Lymphatic endothelial enriched,22.0,315,0.06984126984126984,Kras-H3K36M
+Tumor_76,Malignant 3 enriched,0.0,315,0.0,Kras-H3K36M
+Tumor_76,Lung parenchyma,7.0,315,0.022222222222222223,Kras-H3K36M
+Tumor_76,Pleura,0.0,315,0.0,Kras-H3K36M
+Tumor_80,Malignant 2 (AT2-like) enriched,110.0,801,0.1373283395755306,Kras-H3K36M
+Tumor_80,Malignant 1 enriched,0.0,801,0.0,Kras-H3K36M
+Tumor_80,Malignant 1/2 co-enriched,0.0,801,0.0,Kras-H3K36M
+Tumor_80,Large airway,0.0,801,0.0,Kras-H3K36M
+Tumor_80,Plasma/B/T co-enriched,623.0,801,0.7777777777777778,Kras-H3K36M
+Tumor_80,Lymphatic endothelial enriched,68.0,801,0.08489388264669163,Kras-H3K36M
+Tumor_80,Malignant 3 enriched,0.0,801,0.0,Kras-H3K36M
+Tumor_80,Lung parenchyma,0.0,801,0.0,Kras-H3K36M
+Tumor_80,Pleura,0.0,801,0.0,Kras-H3K36M
+Tumor_90,Malignant 2 (AT2-like) enriched,38.0,688,0.055232558139534885,Kras-H3K36M
+Tumor_90,Malignant 1 enriched,0.0,688,0.0,Kras-H3K36M
+Tumor_90,Malignant 1/2 co-enriched,0.0,688,0.0,Kras-H3K36M
+Tumor_90,Large airway,0.0,688,0.0,Kras-H3K36M
+Tumor_90,Plasma/B/T co-enriched,639.0,688,0.9287790697674418,Kras-H3K36M
+Tumor_90,Lymphatic endothelial enriched,1.0,688,0.0014534883720930232,Kras-H3K36M
+Tumor_90,Malignant 3 enriched,0.0,688,0.0,Kras-H3K36M
+Tumor_90,Lung parenchyma,9.0,688,0.01308139534883721,Kras-H3K36M
+Tumor_90,Pleura,1.0,688,0.0014534883720930232,Kras-H3K36M
+Tumor_91,Malignant 2 (AT2-like) enriched,100.0,302,0.33112582781456956,Kras-H3K36M
+Tumor_91,Malignant 1 enriched,0.0,302,0.0,Kras-H3K36M
+Tumor_91,Malignant 1/2 co-enriched,0.0,302,0.0,Kras-H3K36M
+Tumor_91,Large airway,0.0,302,0.0,Kras-H3K36M
+Tumor_91,Plasma/B/T co-enriched,155.0,302,0.5132450331125827,Kras-H3K36M
+Tumor_91,Lymphatic endothelial enriched,27.0,302,0.08940397350993377,Kras-H3K36M
+Tumor_91,Malignant 3 enriched,0.0,302,0.0,Kras-H3K36M
+Tumor_91,Lung parenchyma,20.0,302,0.06622516556291391,Kras-H3K36M
+Tumor_91,Pleura,0.0,302,0.0,Kras-H3K36M
+Tumor_94,Malignant 2 (AT2-like) enriched,57.0,145,0.3931034482758621,Kras-H3K36M
+Tumor_94,Malignant 1 enriched,0.0,145,0.0,Kras-H3K36M
+Tumor_94,Malignant 1/2 co-enriched,0.0,145,0.0,Kras-H3K36M
+Tumor_94,Large airway,0.0,145,0.0,Kras-H3K36M
+Tumor_94,Plasma/B/T co-enriched,71.0,145,0.4896551724137931,Kras-H3K36M
+Tumor_94,Lymphatic endothelial enriched,2.0,145,0.013793103448275862,Kras-H3K36M
+Tumor_94,Malignant 3 enriched,0.0,145,0.0,Kras-H3K36M
+Tumor_94,Lung parenchyma,15.0,145,0.10344827586206896,Kras-H3K36M
+Tumor_94,Pleura,0.0,145,0.0,Kras-H3K36M
+Tumor_75,Malignant 2 (AT2-like) enriched,4.0,38,0.10526315789473684,Kras-H3K36M
+Tumor_75,Malignant 1 enriched,0.0,38,0.0,Kras-H3K36M
+Tumor_75,Malignant 1/2 co-enriched,0.0,38,0.0,Kras-H3K36M
+Tumor_75,Large airway,0.0,38,0.0,Kras-H3K36M
+Tumor_75,Plasma/B/T co-enriched,29.0,38,0.7631578947368421,Kras-H3K36M
+Tumor_75,Lymphatic endothelial enriched,1.0,38,0.02631578947368421,Kras-H3K36M
+Tumor_75,Malignant 3 enriched,0.0,38,0.0,Kras-H3K36M
+Tumor_75,Lung parenchyma,4.0,38,0.10526315789473684,Kras-H3K36M
+Tumor_75,Pleura,0.0,38,0.0,Kras-H3K36M
+Tumor_55,Malignant 2 (AT2-like) enriched,294.0,1558,0.18870346598202825,Kras-H3K36M
+Tumor_55,Malignant 1 enriched,0.0,1558,0.0,Kras-H3K36M
+Tumor_55,Malignant 1/2 co-enriched,0.0,1558,0.0,Kras-H3K36M
+Tumor_55,Large airway,0.0,1558,0.0,Kras-H3K36M
+Tumor_55,Plasma/B/T co-enriched,1194.0,1558,0.766367137355584,Kras-H3K36M
+Tumor_55,Lymphatic endothelial enriched,33.0,1558,0.021181001283697046,Kras-H3K36M
+Tumor_55,Malignant 3 enriched,0.0,1558,0.0,Kras-H3K36M
+Tumor_55,Lung parenchyma,33.0,1558,0.021181001283697046,Kras-H3K36M
+Tumor_55,Pleura,4.0,1558,0.0025673940949935813,Kras-H3K36M
+Tumor_57,Malignant 2 (AT2-like) enriched,59.0,455,0.12967032967032968,Kras-H3K36M
+Tumor_57,Malignant 1 enriched,0.0,455,0.0,Kras-H3K36M
+Tumor_57,Malignant 1/2 co-enriched,0.0,455,0.0,Kras-H3K36M
+Tumor_57,Large airway,0.0,455,0.0,Kras-H3K36M
+Tumor_57,Plasma/B/T co-enriched,381.0,455,0.8373626373626374,Kras-H3K36M
+Tumor_57,Lymphatic endothelial enriched,8.0,455,0.017582417582417582,Kras-H3K36M
+Tumor_57,Malignant 3 enriched,0.0,455,0.0,Kras-H3K36M
+Tumor_57,Lung parenchyma,7.0,455,0.015384615384615385,Kras-H3K36M
+Tumor_57,Pleura,0.0,455,0.0,Kras-H3K36M
+Tumor_56,Malignant 2 (AT2-like) enriched,1.0,59,0.01694915254237288,Kras-H3K36M
+Tumor_56,Malignant 1 enriched,0.0,59,0.0,Kras-H3K36M
+Tumor_56,Malignant 1/2 co-enriched,0.0,59,0.0,Kras-H3K36M
+Tumor_56,Large airway,0.0,59,0.0,Kras-H3K36M
+Tumor_56,Plasma/B/T co-enriched,58.0,59,0.9830508474576272,Kras-H3K36M
+Tumor_56,Lymphatic endothelial enriched,0.0,59,0.0,Kras-H3K36M
+Tumor_56,Malignant 3 enriched,0.0,59,0.0,Kras-H3K36M
+Tumor_56,Lung parenchyma,0.0,59,0.0,Kras-H3K36M
+Tumor_56,Pleura,0.0,59,0.0,Kras-H3K36M
+Tumor_68,Malignant 2 (AT2-like) enriched,27.0,72,0.375,Kras-H3K36M
+Tumor_68,Malignant 1 enriched,0.0,72,0.0,Kras-H3K36M
+Tumor_68,Malignant 1/2 co-enriched,0.0,72,0.0,Kras-H3K36M
+Tumor_68,Large airway,0.0,72,0.0,Kras-H3K36M
+Tumor_68,Plasma/B/T co-enriched,38.0,72,0.5277777777777778,Kras-H3K36M
+Tumor_68,Lymphatic endothelial enriched,7.0,72,0.09722222222222222,Kras-H3K36M
+Tumor_68,Malignant 3 enriched,0.0,72,0.0,Kras-H3K36M
+Tumor_68,Lung parenchyma,0.0,72,0.0,Kras-H3K36M
+Tumor_68,Pleura,0.0,72,0.0,Kras-H3K36M
+Tumor_64,Malignant 2 (AT2-like) enriched,24.0,205,0.11707317073170732,Kras-H3K36M
+Tumor_64,Malignant 1 enriched,0.0,205,0.0,Kras-H3K36M
+Tumor_64,Malignant 1/2 co-enriched,0.0,205,0.0,Kras-H3K36M
+Tumor_64,Large airway,0.0,205,0.0,Kras-H3K36M
+Tumor_64,Plasma/B/T co-enriched,174.0,205,0.848780487804878,Kras-H3K36M
+Tumor_64,Lymphatic endothelial enriched,0.0,205,0.0,Kras-H3K36M
+Tumor_64,Malignant 3 enriched,0.0,205,0.0,Kras-H3K36M
+Tumor_64,Lung parenchyma,7.0,205,0.03414634146341464,Kras-H3K36M
+Tumor_64,Pleura,0.0,205,0.0,Kras-H3K36M
+Tumor_63,Malignant 2 (AT2-like) enriched,8.0,63,0.12698412698412698,Kras-H3K36M
+Tumor_63,Malignant 1 enriched,0.0,63,0.0,Kras-H3K36M
+Tumor_63,Malignant 1/2 co-enriched,0.0,63,0.0,Kras-H3K36M
+Tumor_63,Large airway,14.0,63,0.2222222222222222,Kras-H3K36M
+Tumor_63,Plasma/B/T co-enriched,37.0,63,0.5873015873015873,Kras-H3K36M
+Tumor_63,Lymphatic endothelial enriched,2.0,63,0.031746031746031744,Kras-H3K36M
+Tumor_63,Malignant 3 enriched,0.0,63,0.0,Kras-H3K36M
+Tumor_63,Lung parenchyma,2.0,63,0.031746031746031744,Kras-H3K36M
+Tumor_63,Pleura,0.0,63,0.0,Kras-H3K36M
+Tumor_89,Malignant 2 (AT2-like) enriched,13.0,24,0.5416666666666666,Kras-H3K36M
+Tumor_89,Malignant 1 enriched,0.0,24,0.0,Kras-H3K36M
+Tumor_89,Malignant 1/2 co-enriched,0.0,24,0.0,Kras-H3K36M
+Tumor_89,Large airway,0.0,24,0.0,Kras-H3K36M
+Tumor_89,Plasma/B/T co-enriched,0.0,24,0.0,Kras-H3K36M
+Tumor_89,Lymphatic endothelial enriched,11.0,24,0.4583333333333333,Kras-H3K36M
+Tumor_89,Malignant 3 enriched,0.0,24,0.0,Kras-H3K36M
+Tumor_89,Lung parenchyma,0.0,24,0.0,Kras-H3K36M
+Tumor_89,Pleura,0.0,24,0.0,Kras-H3K36M

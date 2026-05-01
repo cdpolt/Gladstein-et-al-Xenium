@@ -1,0 +1,7 @@
+,count,count,percent,percent
+Cell Type,TAM 1,TAM 2,TAM 1,TAM 2
+Genotype,,,,
+Kras-Ctrl,19423,13734,58.58,41.42
+Kras-H3K36M,14152,6172,69.63,30.37
+Kras-Setd2KO,8275,13290,38.37,61.63
+Kras-H3K36M-Setd2KO,22338,12571,63.99,36.01

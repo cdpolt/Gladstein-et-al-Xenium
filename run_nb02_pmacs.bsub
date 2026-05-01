@@ -1,0 +1,23 @@
+#!/bin/bash
+#BSUB -J gladstein_nb02
+#BSUB -o /home/cdpolt/projects/gladstein-et-al/logs/nb02_%J.out
+#BSUB -e /home/cdpolt/projects/gladstein-et-al/logs/nb02_%J.err
+#BSUB -n 8
+#BSUB -M 131072
+#BSUB -R "rusage[mem=131072] span[hosts=1]"
+#BSUB -W 10:00
+#BSUB -q normal
+#BSUB -N
+#BSUB -u cdpolt@pennmedicine.upenn.edu
+
+cd /home/cdpolt/projects/gladstein-et-al/
+
+source /home/cdpolt/envs/miniforge/etc/profile.d/conda.sh
+conda activate scanpy_gladstein
+
+jupyter nbconvert \
+    --to notebook \
+    --execute \
+    --inplace \
+    --ExecutePreprocessor.timeout=36000 \
+    notebooks/02_qc_cell_typing.ipynb

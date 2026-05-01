@@ -1,0 +1,19 @@
+# Data
+data/raw/
+data/processed/
+
+# Local backups and scratch
+notebooks/_pre_slim_backup/
+notebooks/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Run logs
+logs/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
